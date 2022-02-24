@@ -1,0 +1,586 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A funeral sermon preached upon the sad occasion of the death of that emiment and faithful servant of Christ, Mr. Thomas Rosewell who departed this life February the 4th : and whose remains were interred February th 19th. 1691/2 / by Mathew Mead.</title>
+            <author>Mead, Matthew, 1630?-1699.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 93 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50488</idno>
+            <idno type="STC">Wing M1554</idno>
+            <idno type="STC">ESTC R20429</idno>
+            <idno type="EEBO-CITATION">11773412</idno>
+            <idno type="OCLC">ocm 11773412</idno>
+            <idno type="VID">48900</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50488)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48900)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 541:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A funeral sermon preached upon the sad occasion of the death of that emiment and faithful servant of Christ, Mr. Thomas Rosewell who departed this life February the 4th : and whose remains were interred February th 19th. 1691/2 / by Mathew Mead.</title>
+                  <author>Mead, Matthew, 1630?-1699.</author>
+               </titleStmt>
+               <extent>[4], 35 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Lawrence ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bristol Public Library, Bristol, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rosewell, Thomas, 1630-1692.</term>
+               <term>Bible. --  O.T. --  Job XXXIII, 23-24 --  Sermons.</term>
+               <term>Funeral sermons.</term>
+               <term>Sermons, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48900:1" rendition="simple:additions"/>
+            <p>A Funeral SERMON Preached upon The ſad Occaſion of the Death of that Emi<g ref="char:EOLhyphen"/>ment and Faithful Servant of Chriſt, Mr. <hi>THOMAS ROSEWELL,</hi> Who departed this Life <hi>February</hi> the 4th. AND Whoſe Remains were Interred <hi>February</hi> the 19<hi rend="sup">th</hi>. 1691/2.</p>
+            <p>By <hi>MATTHEW MEAD.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>John Lawrence</hi> at the <hi>Angel</hi> in the <hi>Poultrey.</hi> 1692.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:48900:2"/>
+            <pb facs="tcp:48900:2"/>
+            <head>To the Flock of Chriſt in <hi>Ro<g ref="char:EOLhyphen"/>therhith,</hi> over which the Reve<g ref="char:EOLhyphen"/>rend Mr. <hi>Thomas Roſwell</hi> was lately the <hi>Overſeer.</hi>
+            </head>
+            <p>AS this Sermon had not been preached but to anſwer your Requeſt, nor this Text choſen for my Subject, but in compliance with the deſires of your now de<g ref="char:EOLhyphen"/>ceaſed <hi>Paſtor,</hi> and his worthy <hi>Relict,</hi> ſo if re<g ref="char:EOLhyphen"/>peated Denials could have ſilenced your repeated Importunities, it had not been made thus publick: but if the Intereſt of our Lord may thereby be promoted, and the Salvation of Souls any way furthered by it, I ſhall have no cauſe to repent my Compliance with your Deſires; but ſhall bleſs God who makes it uſeful to thoſe ends, which I can truly ſay were mine in the preaching of it.</p>
+            <p>It is ſome Satisfaction to me that I have hereby an Opportunity put into my hand of giving a publick Teſtimony to that Honour and Reſpect I always had to that worthy Servant of Christ, for the Grace of God which was ſo manifeſt in him: As alſo of ob<g ref="char:EOLhyphen"/>viating thoſe reproachful Cenſures which profane Scoffers paſſed up<g ref="char:EOLhyphen"/>on him, becauſe of the dark Diſpenſations which it ſeems good to the wiſe God, who <hi>gives no account of any of his matters,</hi> to exerciſe him with in his laſt ſickneſs: This I have endeavoured in the following Diſcourſe, which you have as it was preached; only I have added ſome few things which I could not, by reaſon of ſtraits of time, then deliver.</p>
+            <p>I am ſenſible (and ſo I hope are you) of the greatneſs of the loſs you have ſuſtained in him, who was (ſuch a one as the <hi>Text</hi> mentions) <hi>a Meſſenger, an Interpreter, one among a thou<g ref="char:EOLhyphen"/>ſand.</hi> A loſs which can never be made up, but by that hand that made the breach.</p>
+            <p>God often takes away his Miniſters as a puniſhment for the un<g ref="char:EOLhyphen"/>thankfulneſs and unprofitableneſs of their hearers; who never knew
+<pb facs="tcp:48900:3"/>how to prize and improve the injoyment of them: And it is juſt with God, when we play by that Light, which he ſets up to guide us in our work, to put it out, and leave us in the dark. As ſome <hi>Miniſters</hi> are guilty of the Blood of their <hi>Hearers,</hi> in not deal<g ref="char:EOLhyphen"/>ing faithfully with their Souls, ſo ſome <hi>Hearers</hi> are guilty of the Blood of their <hi>Miniſters</hi> in provoking God, by their obſtinate refu<g ref="char:EOLhyphen"/>ſals of Goſpel Grace, to call them home. And if any of you have had any hand in this guilt, how loudly doth God call you by the language of this Providence to a ſerious and ſpeedy Repentance, and making peace with him, who therefore <hi>waits that he may be gracious:</hi> for tho the Bucket be broken, yet the Fountain of Grace and Mercy is ſtill open, ever full, and always flowing. God hath <hi>the reſidue of the Spirit;</hi> and he who hath provided for the World, notwithſtanding the death of ſo many uſeful Perſons thus long, can do it ſtill: for his Arm is not ſhortened nor grown wea<g ref="char:EOLhyphen"/>ry. Mercy runs as freely to this day, as at the firſt broaching of it. And therefore pray earneſtly (and ſo ſhall I) that this great breach which the wiſe God hath made upon you by this ſad ſtroke, may be mercifully healed by his own hand, in giving you <hi>a Paſtor after his own heart, that may feed you with knowledge and un<g ref="char:EOLhyphen"/>derſtanding.</hi> And when God ſhall anſwer your Prayers, do you give all diligence to anſwer his kindneſs in improving all the means of Grace ſo, as that Chriſt may <hi>ſee of the travel of his Soul</hi> in you, <hi>and be ſatisfied,</hi> and that thoſe Miniſters of Chriſt which you have had, or ſhall have, may have cauſe to <hi>rejoyce in the day of the Lord that they have not run in vain, nor laboured in vain.</hi> This is and ſhall he the Prayer of</p>
+            <closer>
+               <signed>Your Servant for Jeſus ſake, MATTH. MEAD.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:48900:3"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>JOB XXXIII. 23, 24.</hi>
+                  </bibl>
+                  <p>If there be a Meſſenger with him, an Interpreter, one among a thouſand, to ſhew unto man his <g ref="char:V">Ʋ</g>prightneſs.</p>
+                  <p>Then he is gracious to him, and ſaith, Deliver him from going down to the Pit, I have found a Ranſom.</p>
+               </q>
+            </epigraph>
+            <p>I Have not my ſelf choſen this Text, nor ſhould I have pitched upon it for this occaſion. But he in his life time choſe it, who was himſelf ſuch a one as is deſcri<g ref="char:EOLhyphen"/>bed in it: namely, <hi>An Interpreter, one of a thou<g ref="char:EOLhyphen"/>ſand.</hi>
+            </p>
+            <p>The words are a part of <hi>Elihu</hi>'s Diſcourſe with <hi>Job</hi> du<g ref="char:EOLhyphen"/>ring that ſevere Trial he was under, both from God and Sa<g ref="char:EOLhyphen"/>tan, and that both in his outward and inward man. Which Trial, tho it was exceeding ſharp and afflictive du<g ref="char:EOLhyphen"/>ring his exerciſe under it, yet it was very comfortable and ſweet in the iſſue and event of it.
+<note place="margin">Job 42 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> For <hi>his latter end was bet<g ref="char:EOLhyphen"/>ter then his beginning.</hi> As you may read in the laſt Chapter of this Book.</p>
+            <p>In this Chapter <hi>Elihu</hi> undertakes to aſſert the Soveraign<g ref="char:EOLhyphen"/>ty of God over Man; for tho he is juſt and righteous in all his doings, yet he is unaccountable in what he doth. <hi>He giveth no account of any of his matters,</hi> verſe 13. It is e<g ref="char:EOLhyphen"/>nough for us to know, that tho his Providences are ſome<g ref="char:EOLhyphen"/>times <hi>dark,</hi> yet they are always <hi>just:</hi> tho his Diſpenſations are very <hi>myſterious,</hi> yet they are never <hi>unrighteous.</hi> Tho <hi>Clouds and Darkneſs are round about him,</hi> yet <hi>Righteouſneſs and Judgment are the Habitation of his Throne,</hi> Pſal. 97.2.</p>
+            <p>But tho God be ſo <hi>great</hi> as to be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, not obliged to give any account of himſelf, yet he is ſo <hi>gracious,</hi> as to
+<pb n="2" facs="tcp:48900:4"/>condeſcend to Man frequently, and to give ſuch intimations of his will, and of the reaſon of his doings, that Man is not ſo left in the dark, but that he may perceive the mind of God concerning him, and the reaſon of his diſpenſations towards him! <hi>For God ſpeaks once, yea twice,</hi> verſe 14.</p>
+            <p>Tho he doth not ſpeak as Man, yet he ſpeaks ſo as to make his mind known to Man. Tho he doth not ſpeak <hi>ſyllabically,</hi> yet he ſpeaks <hi>intelligibly.</hi> Tho he doth not ſpeak to the outward Organ, yet he ſpeaks to the Mind and Un<g ref="char:EOLhyphen"/>derſtanding.</p>
+            <p>And in this ſenſe God hath various ways of ſpeaking to Man. Of which <hi>Elihu</hi> here gives ſeveral Inſtances.</p>
+            <p n="1">1. The firſt is his ſpeaking by Dreams and Viſions, <hi>verſ.</hi> 15. <hi>In a Dream, in a Viſion of the Night, when deep ſleep falls upon Men.</hi> And what God's end is in this way of ſpeaking he tells you in the following verſes. It is to inſtruct, to hum<g ref="char:EOLhyphen"/>ble, to ſave.</p>
+            <list>
+               <item>1. To inſtruct, <hi>verſe</hi> 16. <hi>Then he opens the Ears of Men, and ſealeth their Inſtruction.</hi>
+               </item>
+               <item>2. To humble, <hi>verſe</hi> 17. <hi>That he may withdraw Man from his purpoſe, and hide pride from Man.</hi>
+               </item>
+               <item>3. To ſave, <hi>verſe</hi> 18. <hi>He keepeth back his Soul from the pit.</hi>
+               </item>
+            </list>
+            <p n="2">2. Another way of God's ſpeaking is by Pains and Diſeaſes, <hi>verſ.</hi> 19, 20, 21, 22. <hi>He is chaſtened with pain upon his Bed, and the multitude of his bones with ſtrong pain.</hi> This is a ſad way of ſpeaking, and muſt neceſſarily make ſorrowful hearers. When God ſpeaks <hi>in puniſhing,</hi> Man muſt needs hear <hi>in pain.</hi> He ſets down a threefold Effect of this Pain.</p>
+            <p>The firſt is, loſs of Appetite, and loathing the neceſſary ſupports of Life. <hi>His life abhorreth bread, and his ſoul dainty meat,</hi> verſe 20.</p>
+            <p>A ſecond Effect is, a total waſte, and univerſal decay of Nature, <hi>verſe</hi> 21. <hi>His fleſh is conſumed away that it cannot be ſeen, and his bones that were not ſeen, ſtick out.</hi>
+            </p>
+            <p>A third Effect is, a readineſs to expire and give up the Ghoſt, <hi>verſe</hi> 22. <hi>His Soul draws near to the Grave, and his Life to the Deſtroyers.</hi> And this is a ſecond way of God's ſpeaking to Man.</p>
+            <p n="3">
+               <pb n="3" facs="tcp:48900:4"/>
+3. A third way is, by a Meſſenger ſent from God to teach Man. Which Meſſenger is deſcribed two ways.</p>
+            <list>
+               <item>1. By his Character.</item>
+               <item>2. By his Meſſage.</item>
+            </list>
+            <p n="1">1. By his Character. He is <hi>an Interpreter, one among a thouſand.</hi> Which is meant of the faithful Miniſters of Chriſt; for they are his Meſſengers. <hi>As the Father hath ſent me, ſo ſend I you,</hi> John 10.21.</p>
+            <p>And they are ſent to be Interpreters of the mind and will of God to ſinners. And that, as to Peace and Reconciliation, and as to Grace and Salvation, ſo alſo to Duty and Holineſs of Converſation.</p>
+            <p>And it is a rare skill to be a true Interpreter between God and Sinners. To be able to diſcover the mind of God aright; to bring the Soul to a firm cloſing with the great Truths and Promiſes of the Goſpel. <hi>To know how to ſpeak a word in ſea<g ref="char:EOLhyphen"/>ſon to him that is weary,</hi> (Iſa. 50.4.) and ſo to eaſe the wound<g ref="char:EOLhyphen"/>ed Conſcience by directing it to its true reſt:
+<note place="margin">Mat. 11.28.</note> Theſe are right words, and <hi>how forcible are right words,</hi> (Job 6.25.) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> how powerful to ſway the Judgment,
+<note place="margin">Mah nim<g ref="char:EOLhyphen"/>retſu.</note> and carry the mind after it. One word rightly timed, and ſuited to the caſe, O what a relief it is to the troubled Conſcience!</p>
+            <p>He that can do this is an Interpreter indeed, not of Tongues and Languages, but of Secrets and Myſteries. He is taught of God, he hath given to him the Tongue of the Learned. And ſuch an Interpreter is a rare thing, <hi>He is one among a thouſand.</hi>
+            </p>
+            <p>O how ſhould this teach you to prize faithful Meſſengers when the Lord ſends them; and how readily ſhould you re<g ref="char:EOLhyphen"/>ceive the Grace of God which is tendered by them; and how deeply ſhould you lay it to heart when the Lord doth at any time remove them; for it is a great Judgment. And ſo is the taking away this Meſſenger of God from you, unleſs the Lord help you to improve the Meſſage he delivered to you. And that brings me to the ſecond thing.</p>
+            <p n="2">2. He is deſcribed by his Meſſage, which ſhews what his work and buſineſs is. And that is in the next words, <hi>to ſhew
+<pb n="4" facs="tcp:48900:5"/>unto Man his uprightneſs;</hi> or his righteouſneſs; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> may be underſtood either way.</p>
+            <p>But whoſe Righteouſneſs is this (called here <hi>His Righteouſ<g ref="char:EOLhyphen"/>neſs</hi>) which the Meſſenger ſhews to Man?</p>
+            <p>Some underſtand it of the ſick perſon in the fore-going verſes; who hath an uprightneſs of his own, and doth not know it. His heart, by renewing Grace, is right with God, and yet his Spirit is dark and clouded, ſo that he cannot ſee it. It is no new thing for the beſt of the Children of God to be in great darkneſs at ſome times about their ſpiritual ſtate. They may have attained to great Grace by ſeeking, and yet may ſometimes have all their Grace to ſeek. Some<g ref="char:EOLhyphen"/>times <hi>Corruptions</hi> from <hi>within,</hi> and <hi>Temptations</hi> from <hi>without,</hi> and <hi>Deſcritions</hi> from <hi>above</hi> may ſo darken his Sky, as that there may not be the appearance of one Star to give him light.</p>
+            <p>It is ſeldom that a Believer can read the Evidences of the goodneſs of his ſtate by any other light then that of Gods Countenance. But alas, that doth not ſhine always. Where is the Chriſtian that hath always ſat in this Sunſhine, with<g ref="char:EOLhyphen"/>out any gloomy days, or winter ſtorms? Who ever taſted of the <hi>waters of life,</hi> but they have drank leſs or more of thoſe waters of <hi>Marak.</hi> There are few that ever <hi>found</hi> God, but may ſay that they have often <hi>loſt</hi> him.</p>
+            <p>And it is a diſtreſſing caſe for a Man to want communion with God, after he hath once enjoyed it. To be ſhut out of that Heaven which the light of God's Face makes in the Soul, muſt be to a Saint as Hell it ſelf.</p>
+            <p>So it was to <hi>Heman,</hi> Pſal. 88. 3d, to <hi>verſe</hi> the 7th. <hi>My Soul is full of troubles, and my Life draweth nigh to the grave. I am counted with them that go down to the pit.—Free among the dead, like the ſlain that lye in the Grave, whom thou remem<g ref="char:EOLhyphen"/>breſt no more.—Thou haſt laid me in the loweſt pit, in dark<g ref="char:EOLhyphen"/>neſs, in the deeps. Thy wrath lyeth hard upon me, and thou hast afflicted me with all thy ways.</hi> What deſpairing Language is this out of the mouth of an eminent Saint and Servant of God, as if he were dropping into Hell, and paſt all hope.</p>
+            <p>
+               <pb n="5" facs="tcp:48900:5"/>
+As the enjoyment of God is a good that puts lightneſs in<g ref="char:EOLhyphen"/>to all our Troubles, ſo the loſs of him is an evil that clouds all our Comforts. The loſs of another mercy is but a par<g ref="char:EOLhyphen"/>ticular evil, it is but as the blowing out our Candle at noon, when we have light enough to ſee without it. But the loſs of this is as the ſetting of the Sun, which leaves us dark and comfortleſs. No preſence can make up his abſence.</p>
+            <p>Nothing looks ſo like Judgment as this. In other afflicti<g ref="char:EOLhyphen"/>ons a Chriſtian doth but conflict with Creatures, but in this there ſeems to be a conteſt between him and God. And as God is infinitely above him, ſo the ſenſe of his Wrath is ready to ſink him.</p>
+            <p>And when God is thus hidden, it is no wonder tho a Be<g ref="char:EOLhyphen"/>liever be hidden to himſelf. If the light of God's Face be clouded, his Evidences are very apt to be obſcured; and then he queſtions his Right, becauſe he can't ſee to read his Title. As the <hi>Comforts</hi> of a Believer are <hi>a ſecret</hi> to others, ſo the <hi>Graces</hi> of a Believer are many times <hi>a ſecret</hi> to himſelf. He is like a Tree in Winter, that ſeems dead, tho there be life in the root. So when Temptations and Doubts prevail upon him, he gives all up for dead,
+<note place="margin">Job 19.28.</note> tho <hi>the root of the matter is in him.</hi>
+            </p>
+            <p>There are two things very difficult; one is, to convince a preſuming Hypocrite that his Confidence is groundleſs, and his caſe is full of danger; the other is to perſwade the doubting Chriſtian that his heart is right, and his ſtate ſure. As many are confident of the goodneſs of their condition whom yet the Lord abhors; ſo many condemn themſelves for Hypocrites and Caſt-a-ways, who are his Jewels, and and in whom he delights. And in this caſe there needs <hi>a Meſſenger, an Interpreter, one among a thouſand, to ſhew to (ſuch a) Man his uprightneſs;</hi>
+               <note place="margin">Job 3.23.</note> i. e. to convince him that his heart is right, tho his way be dark.</p>
+            <p n="2">2. Some underſtand the uprightneſs here, called <hi>his up<g ref="char:EOLhyphen"/>rightneſs,</hi> of the righteouſneſs of Jeſus Chriſt, in and by which we are reconciled to, and made one with God. And this, ſays a late Expoſitor, is the uprightneſs chiefly intend<g ref="char:EOLhyphen"/>ed here.</p>
+            <p>
+               <pb n="6" facs="tcp:48900:6"/>
+And indeed there is no Righteouſneſs like this, eſpecially when a Man's caſe is ſuch as <hi>Elihu</hi> here ſpeaks of, when he is ſo <hi>chaſtened with pain upon his bed,</hi>
+               <note place="margin">Job 33.19, 22.</note> that <hi>his ſoul draws near to the grave, and his life to the deſtroyers.</hi> Let <hi>a Meſſenger</hi> then ſhew to him this Righteouſneſs, and he will ſay of it, as <hi>David</hi> did when he asked <hi>Ahimeleck</hi> for a Sword,
+<note place="margin">1 Sam. 21.8, 9.</note> and the Prieſt told him <hi>here is the Sword of</hi> Goliah, <hi>if thou wilt take that, take it.</hi> O, ſays <hi>David, there is none like that, give it me.</hi> No Righteouſneſs like the Righteouſneſs of Chriſt to ſuch a one. Tell him of his own Duties, and Good Works; his Prayings, Repentings, Faſtings, Alms-Deeds, <hi>&amp;c.</hi> and he counts them all but <hi>Dung</hi> in compare with this Righteouſ<g ref="char:EOLhyphen"/>neſs.
+<note place="margin">Phil. 3.8.</note>
+            </p>
+            <p>This is a Righteouſneſs which ſatisfies offended Juſtice, appeaſes the Wrath of God, ſilences the Curſe, and the Tumults of our own Conſciences. This Righteouſneſs af<g ref="char:EOLhyphen"/>fords a Remedy for the ſting of ſin, and the doubts and fears of our minds. It is a righteouſneſs which covers our Nakedneſs, and beautifies our Souls; <hi>Thy beauty was perfect through my Comlineſs which I put upon thee,</hi> Ezek. 16.14. It is a Righteouſneſs that pleads for us in Heaven, that hath more ſtrength then our ſins, and more prevalency then our Ac<g ref="char:EOLhyphen"/>cuſer. It is a Righteouſneſs that ſecures us againſt the Ter<g ref="char:EOLhyphen"/>rours of Death, and intitle us to the Glory of Heaven. And, therefore no Righteouſneſs like this; for it is not the Righteouſneſs of a meer Man, but of <hi>God bleſſed for e<g ref="char:EOLhyphen"/>ver.</hi>
+            </p>
+            <p>Wherever God ſees this Righteouſneſs he imputes no ſin, he diſcharges the Perſon from Guilt, and receives him into Grace and Favour. And that is the ſenſe of the next words.</p>
+            <p>
+               <hi>Then he is gracious unto him, and ſaith, Deliver him from going to the Pit, I have found a Ranſom.</hi>
+            </p>
+            <p>As in the former words you had the Meſſenger deſcribed, in theſe you have the Meſſage declared. And that is, <hi>a De<g ref="char:EOLhyphen"/>liverance from the Pit by a Ranſom</hi> found out by God.</p>
+            <p>
+               <pb n="7" facs="tcp:48900:6"/>
+In which you have</p>
+            <p>The Inventor, <hi>I.</hi>
+            </p>
+            <p>The Invention, <hi>A ranſom.</hi>
+            </p>
+            <p>The manner of Inventing, <hi>Found.</hi>
+            </p>
+            <p>The fruit of the Invention, <hi>Deleverance from the Pit.</hi>
+            </p>
+            <p>The Spring and Source of all, <hi>The Grace of God.</hi>
+            </p>
+            <p>
+               <hi>Then he is gracious to him, and ſaith, Deliver him from going down to the Pit. I have found a Ranſom.</hi>
+            </p>
+            <p>I cannot ſpeak to the words ſo diſtinctly as I would. I ſhall indeavour to open them a little in ſpeaking to four Queſtions.</p>
+            <list>
+               <item>1. What Pit is it that is here intended?</item>
+               <item>2. What Deliverance is it that is here ſpoken of?</item>
+               <item>3. What Ranſom is this that is ſaid to be found?</item>
+               <item>4. Who finds this Ranſom? and where doth he ſind it?</item>
+            </list>
+            <p>
+               <hi>Quest.</hi> 1. What Pit is it that is here intended?</p>
+            <p>
+               <hi>Anſw.</hi> A Pit in general, is any Miſchief or Evil that a Man falls into, either <hi>Temporal, Spiritual,</hi> or <hi>Eternal.</hi>
+            </p>
+            <p>Sometimes <hi>Temporal Evils,</hi> tho outward, are called a Pit. So <hi>Pſalm</hi> 7.15. <hi>He made a Pit, and digged it, and is fallen in<g ref="char:EOLhyphen"/>to it himſelf:</hi> i. e. He deviſed Miſchief againſt others, and the Miſchief is fallen upon his own Head.</p>
+            <p>Sometimes the Grave is called a Pit; and that frequently. So <hi>Pſalm</hi> 88.3, 4. <hi>My life draws nigh to the grave, I am count<g ref="char:EOLhyphen"/>ed with them that go down to the pit.</hi> So <hi>Job</hi> 17.16. <hi>They ſhall go down to the bars of the pit, when our reſt together is in the duſt.</hi> The Grave is a Pit with bars. The Decree of God is the <hi>Bar</hi> of the Grave, and his Purpoſe <hi>locks</hi> it up till the appointed time comes when all ſhall ariſe to Judgment, and then the ſound of the laſt Trumpet ſhall break the <hi>bars</hi> of the Pit, and bring forth all (both good and bad) to make their Appearance at the <hi>Bar</hi> of God.</p>
+            <p>Sometimes <hi>Spiritual Evils</hi> are called a Pit: either Sins, or Temptations, or Deſertions; So <hi>Pſalm</hi> 40.2. <hi>He brought me up out of an horrible Pit.</hi> It is meant of Soul Diſtreſſes. And <hi>Zech.</hi> 9.11. <hi>By the blood of thy Covenant I have ſent forth
+<pb n="8" facs="tcp:48900:7"/>thy Priſoners cut of the Pit, wherein is no water.</hi> Tho this li<g ref="char:EOLhyphen"/>terally is ſpoken of their deliverance from <hi>Babylon,</hi> yet it points to the deliverance of the Soul from the miſery of a natural ſtate, and the bondage of Corruption.</p>
+            <p>Sometimes Hell is called a Pit. So <hi>Rev.</hi> 9.1. you read of the <hi>bottomleſs pit,</hi> and of the <hi>ſmoke of the pit,</hi> and of the <hi>Angel of the bottomleſs pit.</hi> Verſo 11. and <hi>of the Beaſt out of the bot<g ref="char:EOLhyphen"/>tomleſs pit,</hi> Rev. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>1.7. In all theſe places the Pit is meant of Hell.</p>
+            <p>You ſee there are many Pits in Scripture. The Pit of Miſchief, the Pit of the Grave, the Pit of Temptation, the Pit of Deſertion, and the Pit of Hell. And all theſe Pits ſin digs to bury the Comforts of the Soul in.</p>
+            <p>Now I take the Pit in the Text to be chieſly intended in the laſt ſenſe. And ſo it is in the 18th and 28th <hi>verſes; He will deliver his Soul from going into the pit.</hi> Now what Pit is that the Soul goes into? not into the Grave, but into Hell.</p>
+            <p>And if we take it thus, the ſenſe of the Text will be more plain and obvious, <hi>Deliver him from going down to the pit, I have found a ranſom.</hi> All for whom Chriſt is a ranſom are not delivered from the Pit of the Grave,
+<note place="margin">Job. 30.23.</note> for that is <hi>the Houſe appointed for all living.</hi> But they are all delivered from the Pit of Hell.</p>
+            <p>The higheſt degree of Spiritual Life, as Man is conſtitu<g ref="char:EOLhyphen"/>ted, cannot free him from Natural Death. Wherever ſin hath but a <hi>being,</hi> Death will have a <hi>footing.</hi> And therefore <hi>as dieth the fool, ſo dieth the wiſe man,</hi> Eccleſ 2.16. that is, as to the firſt death, but not as to the ſecond; for <hi>over ſuch the ſecond death hath no power,</hi> Rev. 20.6. And why? becauſe the Grace of God hath ſigned a Warrant, ſealed with the Redeemers Blood, for his Diſcharge; ſo ye have it in the Text, <hi>He is gracious to him, and ſaith, Deliver him from going down to the pit, for I have found a ranſom.</hi>
+            </p>
+            <p>
+               <hi>Quest.</hi> 2. What Deliverance is this that is here ſpoken of?</p>
+            <p>Why ſuch as the Pit is, ſuch is the Deliverance. As the Pit is intended of Death and Damnation, ſo the Deliverance
+<pb n="9" facs="tcp:48900:7"/>carries in it a compleat Redemption. A Redemption from ſin, the cauſe of Damnation; and a Redemption from Damnation, the fruit of ſin.</p>
+            <p n="1">1. It implies a redemption from ſin. A ſtate of ſin is a ſtate of bondage and thraldom. As while he is un<g ref="char:EOLhyphen"/>der the <hi>power</hi> of ſin, he is inſlaved to Satan; ſo while he is under the <hi>guilt</hi> of ſin, he is bound over to damna<g ref="char:EOLhyphen"/>tion.</p>
+            <p>When ſin is pardoned, and the guilt removed, then the bonds that held his Soul are looſed; <hi>Thou haſt looſed my bonds,</hi> ſays <hi>David, Pſal.</hi> 116.16. And here our re<g ref="char:EOLhyphen"/>demption begins; according to that of the Apoſtle, <hi>Eph.</hi> 1.7. <hi>In whom we have redemption through his blood, the forgiveneſs of ſins.</hi> So that when God pardons ſin, <hi>then he is gracious, and ſays, Deliver him from going down to the pit.</hi>
+            </p>
+            <p n="2">2. This Redemption is compleated in Salvation. There is a ſtate <hi>to which</hi> he is redeemed, as well as <hi>from which.</hi> The ſtate <hi>from which,</hi> is a ſtate of Condemnation. <hi>There is no condemnation to them that are in Chriſt Jeſus,</hi> Rom. 8.1. The ſtate <hi>to which,</hi> is Salvation and Glory. It is not enough to be redeemed <hi>from Sin,</hi> and <hi>Death,</hi> and <hi>Hell,</hi> and <hi>Satan,</hi> unleſs we are redeemed <hi>to God.</hi> The Blood of Chriſt purchaſed <hi>poſitive</hi> Mercies as well as <hi>ne<g ref="char:EOLhyphen"/>gative.</hi> He doth not <hi>ſee the travel of his ſoul</hi> to ſatisfacti<g ref="char:EOLhyphen"/>on in delivering us from Hell and Satan, till he hath lodged us ſafe in the boſom of God. And therefore this is that which compleats the Song of the <hi>Beaſts</hi> and <hi>Elders,</hi> Rev. 5.9. <hi>Thou waſt ſlain, and haſt redeemed us to God by thy blood.</hi>
+            </p>
+            <p>And therefore Redemption is ſpoken of in Scripture as a thing to come, a priviledge to be injoyed in the next World, and therefore 'tis to be waited for at preſent, <hi>Rom.</hi> 8.23. <hi>We which have the firſt fruits of the Spirit groan within our ſelves, waiting for the Adoption, to wit, the Redemption of our Body.</hi> And when is that, not till the general Reſurrection. Therefore that is called the Day
+<pb n="10" facs="tcp:48900:8"/>of Redemption, <hi>Epheſ.</hi> 4.30. <hi>Ye are ſealed to the Day of Re<g ref="char:EOLhyphen"/>demption.</hi>
+            </p>
+            <p>We have Redemption now in the <hi>application,</hi> but not in <hi>full poſſeſſion.</hi> It is <hi>bogun,</hi> but it is not <hi>perfected.</hi> We are <hi>redeemed</hi> from the <hi>guilt</hi> and <hi>power</hi> of ſin, but not from the <hi>defilement,</hi>
+               <note place="margin">Gal. 1.13.</note> and penal effects of ſin. We are now <hi>redeemed from the curſe of the Law,</hi> but we are not yet poſ<g ref="char:EOLhyphen"/>ſeſſed of all the Comforts of the Goſpel.</p>
+            <p>The Priviledges we now injoy are the Fruits of Chriſt's purchaſe, but we do not injoy all which he hath purchaſed. We have a right by Faith to the whole in<g ref="char:EOLhyphen"/>heritance, but we cannot as yet inherit upon that right. Though Redemption be perfectly wrought by Chriſt, yet it is applied but in part in the preſent ſtate. We muſt ſtay till the great Reſurrection, before we can be put into full poſſeſſion.</p>
+            <p>This Body that is <hi>ſown in diſhonour,</hi>
+               <note place="margin">1 Cor. 15.43.</note> muſt firſt be <hi>raiſed in glory, and this corruptible muſt put on incorruption, and this mortal muſt put on immortality;</hi>
+               <note place="margin">Verſ. 54.</note> and then (as <hi>Elihu</hi> ſays in the words following the Text,) <hi>his fleſh ſhall be freſher then a Childs,
+<note place="margin">Job 33 25, 26.</note> he ſhall return to the days of his youth.</hi> And then <hi>God will be favourable to him, and he ſhall ſee his face with joy.</hi>
+            </p>
+            <p>All this is included in the Deliverance here mention<g ref="char:EOLhyphen"/>ed.
+<note place="margin">1 Theſſ. 1.10. Eph. 1.14.</note> It is not only <hi>a deliverance from wrath to come,</hi> but a <hi>redemption to the purchaſed poſſeſſion.</hi> This Ranſom reaches from <hi>Death</hi> to <hi>Life,</hi> from <hi>Satan</hi> to <hi>God,</hi> from the <hi>Pit</hi> to <hi>Paradiſe,</hi> from <hi>Hell</hi> to <hi>Heaven.</hi> It is ſuch a Deliverance as carries a compleat Salvation in it: and nothing ſhort of this can be fully expreſſive of that Grace which found it out. For <hi>he is gracious, and ſaith, Deliver him from go<g ref="char:EOLhyphen"/>ing down to the pit, I have found a Ranſom.</hi> And that brings me to a third Query.</p>
+            <p>
+               <hi>Quest.</hi> 3. What Ranſom is this that God is ſaid to find, and upon the account of which, Souls are delivered from the Pit?</p>
+            <p>A Ranſom properly is that which purchaſes Redemp<g ref="char:EOLhyphen"/>tion.
+<pb n="11" facs="tcp:48900:8"/>It is a Redemption by price. To be <hi>redeemed,</hi> and to be <hi>ranſomed</hi> is the ſame thing. <hi>The redeemed ſhall walk there, and the ranſomed of the Lord ſhall return and come to</hi> Sion <hi>with Songs,</hi> Iſa. 35.9, 10.</p>
+            <p>It is the Lord Jeſus Chriſt that is the Ranſom in the Text, his Merit and Righteouſneſs, both in doing and ſuffering, is the price of our Redemption, and that from the Curſe of the Law, from the Juſtice of God, from the Power of Satan, and from Death ſpiritual and eter<g ref="char:EOLhyphen"/>nal.</p>
+            <p>There is a redemption by <hi>power,</hi> and a redemption by <hi>price.</hi> We are redeemed out of the <hi>Soul deſtroying</hi> hand of Satan by <hi>power,</hi> but we are redeemed out of the <hi>Sin revenging</hi> hand of God by <hi>price.</hi> And that price is no common price, it is no leſs then the Blood of Chriſt, 1 <hi>Pet.</hi> 1.18, 19. <hi>Ye were not redeemed with corruptible things as ſilver and gold,—but with the precious blood of Chriſt, as of a Lamb without blemiſh, and without ſpot.</hi> Therefore Chriſt is called the Redeemer, <hi>Iſa.</hi> 59.7. <hi>The Redeemer ſhall come to</hi> Zion. And under this Title <hi>Job</hi> appropriates him to himſelf, <hi>Job</hi> 19.25. <hi>I know that my Redeemer lives.</hi> And he is ſaid to <hi>obtain eternal redemption for us,</hi> Hebr. 9.12. And this is the Ranſom in the Text: and it im<g ref="char:EOLhyphen"/>plies two things.</p>
+            <p n="1">1. The Miſery of the ſtate ſin had brought us into. A ſtate of Bondage and Thraldom; a ſtate of Death and Damnation. That is the caſe of every Son of <hi>Adam</hi> by the Fall: all Humane Nature was dropping into ever<g ref="char:EOLhyphen"/>laſting Deſtruction.</p>
+            <p n="2">2. It implies the voluntarineſs of Chriſt in giving himſelf for a Ranſom. Had not his undertaking been free and voluntary, it could not have been meritorious. For he who acts by conſtraint, cannot merit by his doing. He who parts with what he cannot keep, can merit no<g ref="char:EOLhyphen"/>thing by parting with it.</p>
+            <p>The Apoſtle tells us (<hi>Rom.</hi> 4.4.) what Merit is: It is
+<pb n="12" facs="tcp:48900:9"/>ſuch an adjunct of obedience as whereby <hi>the reward is reckoned not of grace, but of debt.</hi> God in the covenant of Redemption having propoſed to Chriſt a Law of Obe<g ref="char:EOLhyphen"/>dience, with promiſes of ſuch and ſuch Rewards, upon condition of his fulfilling the Obedience required; and Chriſt having performed that Obedience, hence <hi>the re<g ref="char:EOLhyphen"/>ward is reckoned to him of debt.</hi> For whatever was pro<g ref="char:EOLhyphen"/>miſed to Chriſt upon a Condition, he performing that Condition, might righteouſly claim as the reward of his Merit.</p>
+            <p>There are two things in the Death of Chriſt, <hi>payment</hi> and <hi>purchaſe; ſatisfaction</hi> and <hi>procuration.</hi> By the one we are ranſomed from Miſery, by the other we are intitled to Glory. The firſt fruit of his Death is Deliverance wrought, the next is an Inheritance purchaſed.</p>
+            <p>Now the blood of Chriſt had been unavailable to both, had it not been laid down freely. Had he been compel<g ref="char:EOLhyphen"/>led to die, he could not have merited ought for us by dying. What was the fruit of Force, could not have been meritorious. Therefore he ſays, <hi>No man takes my life from me, I lay down of my ſelf,</hi> John 10.18.</p>
+            <p>And from the voluntarineſs of his Death in purſuance of the eternal compact between the Father and the Son, and the inſinite value of it, as being the blood of God; ſo it became a ſufficient price, not only to <hi>ranſom</hi> us, but to <hi>purchaſe</hi> all grace and glory for us.</p>
+            <p>O how great is the Grace of Chriſt! how ſhould the Meditation of it refreſh, yea nouriſh our hearts. What <hi>Balaam</hi> ſays, by way of admiration, of the works of God for <hi>Iſrael,
+<note place="margin">Numb. 23 23.</note> What hath the Lord wrought?</hi> the ſame we may ſay of the undertaking of Chriſt for his People, <hi>What hath Chriſt purchaſed?</hi> what a <hi>ranſom,</hi> what a <hi>ſalvation,</hi> what a <hi>deliverance,</hi> what an <hi>inheritance,</hi> what mercy for the <hi>pre<g ref="char:EOLhyphen"/>ſent,</hi> what glory for the <hi>future?</hi>
+            </p>
+            <p>O how precious is the blood of Chriſt! there is an in<g ref="char:EOLhyphen"/>finite value in the price of it. So that if there were as many worlds of men, as there are men in the world, it would be a ranſom ſufficient for them all.</p>
+            <p>
+               <pb n="13" facs="tcp:48900:9"/>
+               <hi>Queſt.</hi> 4. But inaſmuch as this Ranſom is here ſaid to be found. It will be queried,</p>
+            <p>Who found it?</p>
+            <p>Not Man. Man is found ranſomed, but Man did not find the ranſom. <hi>I am found of them that ſought me not,</hi> Iſa. 65.1. The Grace of God ſinds it. <hi>Then he is gracious, and ſays, Deliver him, I have found a ranſom.</hi> But where did he ſind it? It was not to be found any where out of himſelf. It was found in his own boſom. Jeſus Chriſt came out <hi>of the boſom of the Father,</hi> John 1.18. <hi>This is the Lord's doing,</hi> and therefore ſhould be <hi>marvellous in our eyes,</hi> Pſal. 118.23. <hi>I have found a ranſom.</hi>
+            </p>
+            <p>The manner of Expreſſion implies in it three things.</p>
+            <p n="1">1. The weakneſs and utter impotency of the Creature to have found out a way for its own ranſom. If all the Men on Earth had ſat in counſel from the Fall to this day to have found out a way how ſinning Man might be redeemed from the condemning Sentence of the Law, without damage to the Juſtice of God, all their <hi>Wiſdom</hi> would have proved <hi>Fooliſhneſs</hi> in this matter. They could never have found it out.</p>
+            <p>In <hi>Rev.</hi> 5.1. you read of <hi>a Book in the right hand of him that ſat on the Throne;</hi> and in the next verſe there is an <hi>An<g ref="char:EOLhyphen"/>gel</hi> makes a challenge, <hi>who is worthy to open the Book, and to looſe the ſeals thereof?</hi> and it is ſaid, (v. 3.) <hi>no man in hea<g ref="char:EOLhyphen"/>ven or earth was able to open the Book, nor look thereon.</hi> Much leſs could they have found out a remedy againſt the dam<g ref="char:EOLhyphen"/>ning miſchief of ſin.</p>
+            <p n="2">2. This finding a ranſom implies that God the Father was the firſt Author and Inventer of this bleſſed project of Redemption. Tho it was wrought out by Chriſt, yet it was contrived by the Father. For,</p>
+            <p n="1">1. It was he who firſt ſummoned that great Counſel held by all the Perſons in <hi>Elohim,</hi> when neither Men nor Angels exiſted. Then did God ſit in Conſultation with his <hi>Wiſdom</hi> and <hi>Love,</hi> his <hi>Word</hi> and <hi>Spirit</hi> about the great buſineſs of redeeming Man.
+<note place="margin">Iſa 40.13, 14.</note> God the Father was firſt in it.</p>
+            <p n="2">
+               <pb n="14" facs="tcp:48900:10"/>
+2. It was he that firſt pitched upon the Son, and laid him as the foundation of the whole ſtructure of Salvation. <hi>I have laid help upon one that is mighty,</hi> Pſal. 89.19. Our help is in Chriſt, to him we muſt look; but it is God that made him a help. He is <hi>a ranſom</hi> to redeem us, but it is God who <hi>found</hi> him for us. <hi>I have found a ranſom. It is the Lord's doings,
+<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> (meeth Jehovah) this is from the Lord,</hi> Pſal. 118.23.</p>
+            <p>The whole Model of Redemption from firſt to laſt is ſaid to be propoſed from Eternity in Jeſus Chriſt, <hi>Eph.</hi> 3.11. becauſe God choſe him out to bottom all his Counſels and Purpoſes upon in the whole of the work. Chriſt's Merits had no hand in his being made a <hi>Redeemer</hi> tho they are the <hi>price</hi> of <hi>redemption.</hi> He was a <hi>Redeemer</hi> by <hi>Election</hi> and <hi>choice,</hi> not by <hi>merit</hi> and <hi>price.</hi>
+            </p>
+            <p>Some things are the fruits of his Merit, as <hi>Juſtification, Adoption, Sanctification,</hi> &amp;c. But ſome things were purely God's act without any merit of Chriſt. And ſuch was <hi>E<g ref="char:EOLhyphen"/>lection,</hi> both Chriſt's and ours. Chriſt neither merited our <hi>Election,</hi> nor his own <hi>miſſion</hi> and <hi>incarnation.</hi> Election is the proper act of the Father, and all thoſe means which were appointed for the accompliſhing the ends of it, are of the Father's contrivance; and ſo was the Mediator himſelf. So ſays the Holy Ghoſt in 1 <hi>Pet.</hi> 1.20. <hi>Who verily was fore-ordained before the foundation of the World.</hi> Fore<g ref="char:EOLhyphen"/>ordained for what? to be a ranſom, ſo it is ſaid in the two former Verſes.</p>
+            <p>So that Chriſt is the Elect of God, as well as you <hi>Be<g ref="char:EOLhyphen"/>hold mine Elect in whom my Soul delighteth,</hi> Iſa. 42.1. Our Redeemer came out of the Womb of the Virgin in the fulneſs of time,
+<note place="margin">Gal 4.4.</note> but he came out of the womb of the Decree long before that, even from Eternity. He is not <hi>elected</hi> to be a <hi>Son,</hi> but a <hi>ranſom.</hi> He is <hi>a Son</hi> by <hi>eternal ge<g ref="char:EOLhyphen"/>neration,</hi> but a <hi>Redeemer</hi> by <hi>election.</hi> And therefore tho both are eternal acts of the Father, yet his being <hi>a Son</hi> is in order of nature before his being a <hi>Redeemer.</hi> For his being <hi>a Son</hi> is from God's <hi>nature,</hi> and therefore he is ſo <hi>neceſſarily;</hi> but his being made a <hi>Redeemer</hi> is from God's <hi>will and pleaſure,</hi> and therefore that is <hi>arbitrary;</hi> he was <hi>a
+<pb n="15" facs="tcp:48900:10"/>Son</hi> before he was a <hi>Redeemer,</hi> and he had been <hi>a Son</hi> tho he had never been a <hi>Redeemer.</hi> For the one was <hi>neceſſary,</hi> the other was <hi>arbitrary. Begotten</hi> as a <hi>Son,</hi> but <hi>elect</hi> as a <hi>Saviour.</hi> Chriſt was firſt choſen as the Well-head of Grace and Glory, and then God choſe out ſuch, on whom, by and through Chriſt, theſe bleſſings ſhould be conferred. And therefore the Scripture ſpeaks of the undertaking of Chriſt in ſuch a manner as fully atteſts the priority of the Father in the work. <hi>I was ſet up from everlaſting,</hi> Prov. 8.23. And <hi>Iſa.</hi> 42.6. <hi>I the Lord have called thee in righteouſneſs, and will give thee for a Covenant of the People, for a Light of the Gentiles. To open the blind eyes, to bring out the Priſoners from the priſon, and them that ſit in darkneſs out of the Priſon-houſe.</hi> This is the very ſame lan<g ref="char:EOLhyphen"/>guage which the Text ſpeaks, <hi>Deliver him from going down to the pit, I have found a ranſom.</hi>
+            </p>
+            <p>All thoſe Scriptures prove this, where Chriſt is ſaid to be <hi>ſent</hi> of God, and the <hi>gift</hi> of God,
+<note place="margin">John 6.38. John 4.10. Iſa. 43.1. John 14.31. John 10.7.</note> and the <hi>ſervant</hi> of God, and to <hi>obſerve the commands</hi> of God, and <hi>coming</hi> to do the will of God. And ſo where he is ſaid to be <hi>made of God to us wiſdom, righteouſneſs, ſanctification, and redemp<g ref="char:EOLhyphen"/>tion,</hi> 1 Cor. 1.30.</p>
+            <p>He is our <hi>wiſdom,</hi> but God made him ſo. He is our <hi>righteouſneſs,</hi> but God made him ſo. He is <hi>ſanctification</hi> to us, but God made him ſo. He is our <hi>redemption,</hi> but God made him ſo; i. e. <hi>he found the ranſom.</hi>
+            </p>
+            <p>And therefore the Holy Ghoſt diſtinguiſhes the Father from the Son by this Character; <hi>The Father of whom are all things, and Jeſus Chriſt by whom are all things,</hi> 1 Cor. 8.6. All things are <hi>of the Father</hi> in point of <hi>invention,</hi> and <hi>by the Son</hi> in point of <hi>execution.</hi> The Father is the firſt <hi>contri<g ref="char:EOLhyphen"/>ver,</hi> and Chriſt is the great <hi>undertaker.</hi> The whole <hi>model of mercies</hi> is of the Father's <hi>drawing,</hi> but the <hi>injoyment of mercies</hi> is of Chriſt's <hi>purchaſing.</hi> He <hi>pays</hi> the ranſom, which is the price of our <hi>redemption,</hi> but the Father <hi>finds</hi> the ranſom by chooſing him to be a <hi>redeemer. I have found a ranſom.</hi>
+            </p>
+            <p n="3">3. This finding a ranſom implies the acquieſcency of
+<pb n="16" facs="tcp:48900:11"/>the heart of God in it. It is a ranſom by ſuch a price as is every way ſatisfactory to the Juſtice of God, and that was the blood of the Son of God. Nothing leſs could have been a ſufficient Satisfaction. For pray mind this; Whence doth the ſatisfactorineſs of Chriſt's undertaking reſult? It is not from the dignity of his perſon; no, that indeed makes it to be of infinite value and worth, but it doth not make it to be a Satisfaction. For God might have refuſed it, notwithſtanding the dignity of the Per<g ref="char:EOLhyphen"/>ſon that offered it, had nothing elſe interpoſed. As Chriſt was under no neceſſity to give Satisfaction, ſo the Father was under no neceſſity to accept it.</p>
+            <p>The ſame might be ſaid of the greatneſs of his Suffer<g ref="char:EOLhyphen"/>ings; the Satisfaction of Juſtice doth not ariſe from them. No, but it ariſes from that Agreement that paſſed be<g ref="char:EOLhyphen"/>tween the Father and the Son in the Covenant of Re<g ref="char:EOLhyphen"/>demption. Such a Covenant the Scripture holds out, in which there are certain Articles and Conditions concern<g ref="char:EOLhyphen"/>ing the redemption of Man voluntarily conſented to, and to be perſormed by each party. There was ſomething to be performed by Chriſt to the Father, and ſomething by the Father to Chriſt.</p>
+            <p>Chriſt's part was to take up Humane Nature,
+<note place="margin">Rom. 8 3.</note> to be made in the <hi>likeneſs of ſinful fleſh,</hi> to become <hi>a Surety</hi> for Man to God, to be <hi>made ſin,</hi> to bear the Curſe due to it, to anſwer all the Demands of Juſtice, for the diſhonour ſin had done to injured Majeſty; that ſo God and Sinners might be brought into a ſtate of Reconciliation and A<g ref="char:EOLhyphen"/>mity.</p>
+            <p>The Father on his part ingages to <hi>prepare</hi> him a Body, to <hi>accept</hi> him as a <hi>Surety,</hi> to <hi>fit</hi> him for the work, to <hi>ſtrengthen</hi> him in it, and to <hi>accept</hi> his performance as a full Satisfaction to his Juſtice, and thereupon to pardon and ſave all, that lay hold of his Righteouſneſs.</p>
+            <p>And this expounds that dark place in <hi>Zech.</hi> 9.11. <hi>As for thee, by the Blood of thy Covenant I have ſent forth thy Pri<g ref="char:EOLhyphen"/>ſoners out of the pit wherein is no water.</hi> Moſt underſtand this of the redeeming the captived Jews out of <hi>Babylon.</hi>
+               <pb n="17" facs="tcp:48900:11"/>I do not deny this ſenſe, but ſure they have a farther ſenſe then this. I take them as the words of the Father to the Son. <hi>The pit wherein is no water</hi> is the natural ſlate. <hi>The priſoners in the pit,</hi> are not ſinners in general, for all are not <hi>ſent forth.</hi> But ſuch as the Father gave to Chriſt to redeem; therefore called, <hi>thy priſoners. Priſoners</hi> in regard of their bondage to ſin; <hi>thy priſoners,</hi> as being given to Chriſt to ranſom and re<g ref="char:EOLhyphen"/>deem. <hi>The ſending forth the Priſoners,</hi> being ſpoken of as the Fa<g ref="char:EOLhyphen"/>thers act, <hi>I have ſent them forth,</hi> is an evidence of his full ſa<g ref="char:EOLhyphen"/>tisfaction for ſin. And that which ſatisfies him is the blood of Chriſt, as it is the <hi>blood of the Covenant,</hi> viz that Covenant of Redemption that paſſed in Eternity between the Father and the Son. <hi>By the blood of thy Covenant I have ſent forth thy Priſoners.</hi> So that this Scripture is of one ſound and ſenſe with the Text, <hi>Deliver him from going down to the pit, I have ſound a ranſom.</hi>
+            </p>
+            <p>I ſhould have ſpoken to one thing more mentioned in the Text, <hi>viz.</hi> the ſpring and ſource of this Ranſom and Deli<g ref="char:EOLhyphen"/>verance, and that is, <hi>the Grace of God.</hi> This had the firſt hand in the work. <hi>He is gracious to him, and ſays, Deliver him from going down to the pit.</hi>
+            </p>
+            <p>What a woful <hi>Abyſs</hi> of Miſery was poor Man plunged in<g ref="char:EOLhyphen"/>to by the Fall! obnoxious to all the Severities of Divine Vengeance, ſo that his caſe was become deſperate, and nothing to be looked for, but Wrath and Damnation.</p>
+            <p>Now what ſhall prevent this? Where is there a Remedy to be found? It lies only in the Soveraign Grace of God. Man in his lapſed ſtate cannot deſerve a Ranſom; much leſs ſuch a Ranſom as this in the Text, made up of ſuch a price as the blood of God. Where nothing remains but defor<g ref="char:EOLhyphen"/>mity and deſilement, there can be no deſert; <hi>Innocency</hi> it ſelf cannot merit of God, much leſs <hi>Pollution</hi> and <hi>Filth.</hi> Re<g ref="char:EOLhyphen"/>demption is from meer Grace, a Favour not procured by the worth of Man who receives it, but excited by the Grace of God who diſpenſes it.</p>
+            <p>Nothing can be an Obligation upon God to redeem Man, tis his own Grace obliges him. Man was ſo far from laying <hi>Obligations</hi> upon God by <hi>deſert,</hi> that he never once attempted to ingage his <hi>Compaſſion</hi> by <hi>requeſt.</hi> Tho he was ſunk into the depth of Miſery, yet he had no deſire of a better ſtate. Sup<g ref="char:EOLhyphen"/>plications and Tears are prevailing Solicitors with melting
+<pb n="18" facs="tcp:48900:12"/>Bowels, and ſuch are the Bowels of God; but the ſinner was ſo far from <hi>drawing them forth,</hi> that by his contemptuous Refuſals he rather indeavoured to <hi>ſtop them up.</hi> And yet our miſery and undoneneſs moved God, when there was nothing elſe to draw forth his Compaſſions.</p>
+            <p>
+               <hi>Grace</hi> runs through every part of this ranſoming work from firſt to laſt. <hi>Grace pitched</hi> upon Chriſt to undertake it. And oh how early was God in it! for the <hi>Ranſom</hi> was provided long before the <hi>Vaſſalage</hi> commenced. <hi>Sin</hi> was never <hi>thought on</hi> by the Creature, when a <hi>Redeemer</hi> was <hi>ordained</hi> of God. Nay, Man's redemption was <hi>contrived,</hi> before his being was <hi>beſtowed;</hi> for it was laid from Eternity, whereas he began to <hi>be</hi> in time. God foreſaw Man would ſin and be miſerable, and therefore provided him a <hi>Goel,</hi>
+               <note place="margin">1 Pet. 1.10.</note> a Redeemer, <hi>before the Foundation of the World.</hi>
+            </p>
+            <p>And as <hi>Grace</hi> ordained Chriſt to this work, ſo it was <hi>Grace</hi> that <hi>fitted</hi> him for it, and it was <hi>Grace</hi> that <hi>called</hi> him to it, and <hi>Grace</hi> that accepted him in it. <hi>Juſtice</hi> muſt have Satisfaction for ſin, but it is <hi>Grace</hi> that ſpares the ſinner, and takes the Surety,
+<note place="margin">Gen 22.13</note> as <hi>Abraham</hi> ſpares <hi>Iſaac,</hi> and offers the Ram in his ſtead. There can be no Deliverance out of the hands of Juſtice but by a full price, and therefore Grace finds out a Ranſom.</p>
+            <p>So that the whole of Redemption is Grace, and <hi>Riches of Grace;</hi> ſo the Apoſtle calls it <hi>Epheſ.</hi> 1.7. <hi>In whom we have Redemption through his blood,—according to the Riches of his Grace.</hi> It is Grace to find out a Ranſom, it is Grace to accept it, and to deliver and ſave ſinners upon the account of it Thus is <hi>God gracious, and ſays, Deliver him from going down to the pit, I have ſound a ranſom.</hi>
+            </p>
+            <p>But I ſhall proceed no farther in Explication; I muſt make ſome improvement of theſe things by Application.</p>
+            <p>
+               <hi>Infer.</hi> 1. What a curſed thing is ſin, how dreadful are the fruits of it;
+<note place="margin">Rom. 6.21.</note> 
+               <hi>the end of theſe things is death.</hi> It brings the Soul down to the <hi>pit,</hi> yea to ſuch <hi>a pit</hi> from which nothing but the precious blood of the Son of God can be <hi>a Ranſom.</hi>
+            </p>
+            <p>
+               <hi>Infer.</hi> 2. How is the Wiſdom of God to be admired in the contrivance of ſuch a way for the <hi>ranſoming</hi> and <hi>redeeming</hi> of <hi>loſt</hi> ſinners. His <hi>wiſdom</hi> is to be adored in all his Works, in <hi>Creation,</hi> in <hi>Dominion,</hi> in all his works of <hi>Providence;</hi> but his <hi>wiſdom</hi> in the work of <hi>Redemption</hi> tranſcends all. This is the chief of all the works and ways of God. Herein he is
+<pb n="19" facs="tcp:48900:12"/>ſaid to have <hi>abounded towards us in all wiſdom and prudence,</hi> E<g ref="char:EOLhyphen"/>pheſ. 1.8. <hi>Wiſdom</hi> referreth to the myſtery of it, <hi>Prudence</hi> to the time and way of diſcovery. <hi>Wiſdom</hi> in the eternal coun<g ref="char:EOLhyphen"/>ſel, <hi>Prudence</hi> in ordering things to attain the end of his coun<g ref="char:EOLhyphen"/>ſel. There is <hi>all Wiſdom</hi> in the contrivance, and <hi>all Prudence</hi> in the accompliſhment.</p>
+            <p>Here is the Debtor diſcharged without being at any <hi>coſt;</hi> and yet Satisfaction made without any <hi>abatement. Sin</hi> puniſhed without ſhewing <hi>mercy,</hi>
+               <note place="margin">Rom. 8.32.</note> and yet the <hi>ſinner</hi> acquitted without bearing the <hi>penalty.</hi> And ſo God at once infinitely righte<g ref="char:EOLhyphen"/>ous, and yet infinitely gracious. O how doth all <hi>wiſdom and prudence</hi> abound herein!</p>
+            <p>The Apoſtle (in <hi>Epheſ.</hi> 3.10.) calls it <hi>the manifold wiſdom of God.</hi> It is as <hi>various</hi> as it is <hi>myſterious.</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> A conjunction of excellent <hi>ends,</hi> and excellent <hi>means</hi> to bring them about. The <hi>ends</hi> are the <hi>glory</hi> of God, and the <hi>ſalvation</hi> of man. The <hi>means</hi> are, <hi>God</hi> made <hi>Man,</hi> the <hi>union</hi> of two infinitely diſtant <hi>Natures</hi> in one <hi>perſon,</hi> and ſo made fit to be a <hi>Redeemer. Ran<g ref="char:EOLhyphen"/>ſoming</hi> us from <hi>Death</hi> by <hi>dying. Delivering</hi> us from the <hi>pit,</hi> by going down into the <hi>Grave; Redeeming</hi> us from the <hi>Curſe</hi> by being <hi>made</hi> a <hi>Curſe.</hi> O how ſhould this Wiſdom be admi<g ref="char:EOLhyphen"/>red by all who ſhare in this Ranſom!</p>
+            <p>
+               <hi>Infer.</hi> 3. How unſpeakable great is the Love and Grace of God the Father in the work of Redemption. We are more apprehenſive of Chriſt's Love, becauſe he bled and died for us, then we are of the Love of the Father, becauſe that lies more out of ſight; it is not ſo viſible in its effects.</p>
+            <p>I would not ſpeak one word that ſhould look like a leſſen<g ref="char:EOLhyphen"/>ing the Love and Grace of Chriſt, God forbid. It was great, it was wonderful. All his Tranſactions were nothing elſe but Love expounded and made manifeſt? What was his <hi>Incarna<g ref="char:EOLhyphen"/>tion?</hi> but Love in <hi>Swadling Clothes.</hi> What were his <hi>Sufferings?</hi> but Love in <hi>travel.</hi> What was his <hi>Burial?</hi> but Love laid in the <hi>Grave.</hi> What was his <hi>Reſurrection</hi> and <hi>Aſcenſion?</hi> but love in its <hi>triumph.</hi>
+            </p>
+            <p>Nothing could have brought Chriſt to do what he did, and ſuffer what he ſuffered, but Love. He knew what the Redemp<g ref="char:EOLhyphen"/>tion of Souls would coſt, how dear it would be to him; and yet Love conſents to be at all the charge. <hi>He loved us, and gave himſelf for us an Offering and a Sacrifice to God for a ſweet ſmelling ſavour,</hi> Epheſ. 5.2. Let that <hi>new Song</hi> therefore be for ever ſung
+<pb n="20" facs="tcp:48900:13"/>to his praiſe, <hi>Thou waſt ſlain, and haſt redeemed us to God by thy blood.</hi>
+            </p>
+            <p>But yet the Father had the firſt hand in it. <hi>Redemption</hi> had its firſt riſe in the Eternal purpoſe of his <hi>Free Grace:</hi> he <hi>ordain<g ref="char:EOLhyphen"/>ed,</hi> and <hi>anointed,</hi> and <hi>ſent</hi> Chriſt to bring it about; ſo that the <hi>ranſom</hi> was of his <hi>finding.</hi> And therefore let all the ranſomed of the Lord for ever admire the riches of his Grace herein.</p>
+            <p>
+               <hi>Infer.</hi> 4. How willing and ready muſt God be to pardon and ſave the worſt of ſinners who come to him by Chriſt. What greater Argument can there be to prove it, then giving the Lord Chriſt for a Ranſom to effect it? <hi>Who ſpared not his own Son,</hi> Rom. 8.32. <hi>It pleaſed the Lord to bruiſe him, he hath put him to grief,</hi> Iſai. 53.10.</p>
+            <p>What can be more abhorrent to the heart of a tender Fa<g ref="char:EOLhyphen"/>ther then to have a hand in the Death of his own Son, eſpe<g ref="char:EOLhyphen"/>cially if he be an only Son, and a dutiful Son, a Son that never in the leaſt diſpleaſed or offended him? Who can bear to part with ſuch a Son?</p>
+            <p>It goes to the heart of a Parent but to ſtand by and ſee the Death of a Child. And therefore <hi>Hagar,</hi> when her Son was in diſtreſs, lays him down, and ſat at a diſtance; And why? Alas! ſhe could not bear to ſee him die. <hi>Let me not ſee the death of the Child,</hi> ſaid ſhe, <hi>and ſhe lift up her voice and wept,</hi> Gen. 21, 16. But to <hi>contrive</hi> a Son's death, to <hi>reſolve</hi> it, to <hi>have a hand</hi> in it, to <hi>order</hi> all things about it, who can do this? and yet all this God did. And can there be a greater proof of his willingneſs to ſave ſinners.</p>
+            <p>Why then ſhould any entertain ſuch hard and unbecoming thoughts of God as many do? O what Jealouſies and Fears ariſe in awakened ſinners concerning God! from a ſenſe of the greatneſs of their ſins, and unworthineſs. They dare not <hi>come</hi> to God, they dare not <hi>pray,</hi> they dare not <hi>believe.</hi> —will God own ſuch a vile ſinner, ſuch a polluted wretch as I am? They look on him as a God of <hi>Wrath,</hi> rather then as a God of <hi>Peace,</hi> rather with a <hi>Sword</hi> in his hand, then <hi>Love</hi> in his heart.</p>
+            <p>Aggravate thy ſins to the higheſt, in order to humbling, but let it not work to diſcouragement; for this <hi>Red Sea</hi> of Chriſt's blood is deep enough to drown all theſe <hi>Egyptian</hi> Luſts, tho they are a mighty Hoſt. Whatever thy Bondage and Vaſſalage is by reaſon of them, yet here is a ſufficient ranſom: <hi>For with him there is plenteous Redemption,</hi> Pſal. 130.7.</p>
+            <p>
+               <pb n="21" facs="tcp:48900:13"/>
+None ſhall ever be able to lay their Deſtruction at God's Door, nor to ſay, Lord, I was willing to come to thee, but thou wouldſt not receive me. I would have renounced all my ſins, and took thee upon thy own terms, and thou wouldſt not. No; for <hi>God is not willing that any ſhould periſh, but that all ſhould come to repentance,</hi> 2 Pet. 3.9. He makes a free tender of his Ranſom to all in the Miniſtry of the Goſpel.
+<note place="margin">Act. 20.25.</note> And therefore if the Apoſtle <hi>Paul</hi> could ſay, <hi>I am pure from the blood of all men,</hi> becauſe he had preached Chriſt; ſurely God may ſay ſo much more, who hath freely given Chriſt, <hi>that whoever believes in him might not periſh, but have everlaſting life,</hi> John 3.16. How ſhould the conſideration of this ſcat<g ref="char:EOLhyphen"/>ter all our Doubts and Fears for ever. If God had not been infinitely willing to <hi>ſave</hi> the worſt of ſinners <hi>from going down to the pit,</hi> he would never have <hi>found out</hi> ſuch <hi>a Ranſom.</hi>
+            </p>
+            <p>
+               <hi>Infer.</hi> 5. What precious Jewels are our immortal Souls! The Ranſom found out and paid down for them, is a ſufficient evidence of the value of them. <hi>Ye were not redeemed with corruptible things, as ſilver and gold,—but with the precious blood of Chriſt,</hi> 1 Pet. 1.18, 19. Gold and Silver may redeem Men from <hi>Algier</hi> or <hi>Trepoly,</hi> but not from Hell and Eternal Miſery. Only the blood of God is an equivalent price for the redemption of Souls from that ſtate. And yet (which is ſad to conſider) at how cheap a rate do moſt Men ſell their Souls: for a little gain, for a puff of honour, for a mo<g ref="char:EOLhyphen"/>mentary pleaſure, for a luſt, for a ſtrumpet, for any thing, for nothing. O what folly and madneſs is this! the Lord a<g ref="char:EOLhyphen"/>waken Men to ſee it before it is too late.</p>
+            <p>
+               <hi>Infer.</hi> 6. Seeing God hath been ſo gracious to <hi>find a Ranſom,</hi> it is our duty to labour to <hi>find</hi> it too. And that is, by a dili<g ref="char:EOLhyphen"/>gent <hi>ſeeking</hi> after Chriſt, who is the <hi>Ranſom</hi> here intended. It is not enough that God hath <hi>found</hi> him, for notwithſtanding this, we ſhall be utterly <hi>loſt</hi> unleſs we <hi>find</hi> him. We are at preſent every one of us by the Fall in a <hi>loſt</hi> eſtate. And as God hath ſent Chriſt <hi>to ſeek and ſave them that are loſt,</hi>
+               <note place="margin">Matth. 18.11.</note> ſo he hath promiſed that they that are loſt <hi>ſhall find him, if they ſeek him and ſearch for him with all their heart,</hi> Jer. 29.13. And therefore let us give all diligence ſo to <hi>ſeek</hi> him, that we may <hi>find</hi> him, and <hi>be found in him, not having our own righteouſneſs, which is of the Law, but that which is through the Faith of Chriſt, the Righteouſneſs which is of God by Faith,</hi> Phil. 3.9.</p>
+            <p>
+               <pb n="22" facs="tcp:48900:14"/>
+               <hi>Infer. Laſt.</hi> What admirable <hi>Comfort</hi> reſults from this Truth to all that are made ſharers in this <hi>Ranſom,</hi> who are the <hi>redeem<g ref="char:EOLhyphen"/>ed</hi> of the Lord.</p>
+            <p n="1">1. It is matter of Comfort, with reſpect to the <hi>Law.</hi> For you are for ever freed from all the <hi>rigid Exactions</hi> of it, as it is a <hi>binding</hi> Covenant. So that it hath no more to do with you in that ſenſe; for <hi>ye are not under the Law,</hi> Rom. 6.14 A Be<g ref="char:EOLhyphen"/>liever is ſtill <hi>under the Law</hi> for <hi>conduct,</hi> but not for <hi>judgment.</hi> He is <hi>under the Law</hi> for <hi>direction,</hi>
+               <note place="margin">Rom. 8.1.</note> but not for <hi>condemnation:</hi> for the Son hath made him <hi>free.</hi> And <hi>if the Son make you free, then are ye free indeed,</hi> John 8.36. So that the Law ſhall never be able to hurt one Believer. Indeed it hath terrible <hi>Indite<g ref="char:EOLhyphen"/>ments</hi> againſt all that are under it but it ſhall never be able to <hi>produce</hi> any thing againſt ſuch as are <hi>freed</hi> from it.
+<note place="margin">Gal. 5 23.</note> For <hi>against ſuch there is no Law.</hi>
+            </p>
+            <p>And is not this Comfort? If the Law <hi>frowns,</hi> Chriſt <hi>ſmiles;</hi> and the <hi>frowns</hi> of the Law cannot extinguiſh the <hi>ſmiles</hi> of Chriſt. If the Law <hi>threatens,</hi> Chriſt <hi>promiſes;</hi> and the <hi>threats</hi> of the Law can't make void the <hi>promiſes</hi> of Chriſt. If the Law <hi>curſes,</hi> Chriſt <hi>bleſſes;</hi> and the <hi>curſes</hi> of the Law can't reach that Soul that is <hi>bleſſed with all ſpiritual bleſſings in heavenly things in Chriſt.</hi>
+               <note place="margin">Eph. 1.3.</note>
+            </p>
+            <p n="2">2. By this Ranſom the Believer is for ever <hi>freed</hi> from <hi>ſin.</hi> Tho he is not, as yet <hi>freed</hi> from the <hi>preſence</hi> of it, yet he is <hi>freed</hi> from the <hi>power</hi> of it, both its <hi>condemning</hi> and its <hi>raigning</hi> power.</p>
+            <p n="1">1. <hi>Sin</hi> hath no <hi>condemning</hi> power in a Believer. Tho he often <hi>condemns</hi> himſelf for <hi>ſin,</hi> yet <hi>ſin</hi> ſhall never <hi>condemn</hi> him. And why? Becauſe it hath been it ſelf <hi>condemned</hi> by Chriſt. <hi>Rom.</hi> 8.3. <hi>God ſent his own Son in the likeneſs of ſinful fleſh, and for ſin,</hi> (i.e. by being a Sacrifice for ſin) <hi>condemned ſin in the fleſh.</hi> And if ſin was <hi>condemned</hi> in the <hi>fleſh</hi> of Chriſt, how can it <hi>condemn</hi> the Chriſtian? That which hath been charged up<g ref="char:EOLhyphen"/>on Chriſt, ſhall never be charged upon you.</p>
+            <p>Hath God received a full Satisfaction of Chriſt, or hath he not? If not, why was he <hi>taken from Priſon, and from Judg<g ref="char:EOLhyphen"/>ment?</hi>
+               <note place="margin">Iſa. 53 8. 1 Tim. 3.16. Hebr. 8.1.</note> How came he to be <hi>juſtified in the Spirit, and received up into Glory?</hi> Why is he <hi>ſet on the right hand of the Throne of the Majeſty in the Heavens?</hi> Theſe are undeniable proofs that God is fully ſatisfied. And if ſo, then how can ſin condemn any Soul in Chriſt? Therefore every Believer may triumph<g ref="char:EOLhyphen"/>ingly take up the Apoſtles challenge in his own right, <hi>Rom.</hi> 8.33,
+<pb n="23" facs="tcp:48900:14"/>34. <hi>Who ſhall lay any thing to the charge of God's Elect? It is God that juſtifies. Who is he that condemns? It is Chriſt that died.</hi> This is the <hi>Ranſom</hi> which being once <hi>paid,</hi> can never be <hi>un<g ref="char:EOLhyphen"/>paid;</hi> having been once <hi>accepted,</hi> it can never be <hi>refuſed.</hi> God can no more <hi>condemn</hi> a Believer when he looks upon Chriſt, then he can <hi>drown</hi> the World againſt his promiſe, when he <hi>looks</hi> upon <hi>the Rain-bow</hi> in the Clouds. And is not this Com<g ref="char:EOLhyphen"/>fort?</p>
+            <p n="2">2. Sin hath no <hi>raigning</hi> power in a Believer. Tho it hath ſtill <hi>a being</hi> in him, yet it hath not <hi>dominion</hi> over him. I do not ſay he is perfectly <hi>redeemed</hi> from the power of ſin at pre<g ref="char:EOLhyphen"/>ſent.
+<note place="margin">Rom. 7.18. Rom. 7.23.</note> It hath not ſuch a power as it hath in the Unregene<g ref="char:EOLhyphen"/>rate, but yet a power it hath ſtill, a <hi>moleſting power,</hi> a <hi>warring</hi> power, a <hi>captivating</hi> power, a <hi>tyrannical</hi> power, but yet it hath not a <hi>raigning</hi> power. Sin cannot be ſaid to <hi>raign</hi> in any Believer; God hath ſaid it ſhall not, <hi>Rom.</hi> 6.14. It is ſtill <hi>pre<g ref="char:EOLhyphen"/>ſent,</hi> but it is not <hi>predominant.</hi> Corruption is ſtill <hi>working,</hi> but it is not <hi>raigning.</hi> It may <hi>trouble</hi> us, but it ſhall not <hi>govern</hi> us. It is with ſin in a Believer, as with the Beaſts in <hi>Daniel</hi>'s Vi<g ref="char:EOLhyphen"/>ſion, who, tho <hi>their lives were prolonged for a ſeaſon,</hi> yet <hi>their Dominion was taken away,</hi> Dan. 7.12. <hi>Auſtin</hi> ſpeaks of Man in a four-fold State; <hi>Before</hi> the <hi>Law, under</hi> the <hi>Law, under Grace,</hi> and <hi>in Glory.</hi>
+            </p>
+            <p>
+               <hi>Before</hi> the <hi>Law,</hi> we did neither <hi>fight</hi> nor <hi>ſtrive</hi> againſt ſin.</p>
+            <p>
+               <hi>Under</hi> the <hi>Law,</hi> we <hi>fight,</hi> but are <hi>overcome.</hi>
+            </p>
+            <p>
+               <hi>Under Grace</hi> we <hi>fight</hi> and <hi>conquer.</hi>
+            </p>
+            <p>But <hi>in Glory</hi> there is all <hi>Conqueſt,</hi> and no more <hi>Combates</hi> to eternity. But that ſtate is yet to come. In the mean time, wherever the <hi>virtue</hi> of Chriſt's <hi>Croſs</hi> takes place, it is the ru<g ref="char:EOLhyphen"/>ine of ſins <hi>throne.</hi>
+            </p>
+            <p>And is not this Comfort?</p>
+            <p>For no <hi>Dominion</hi> ſo <hi>vile,</hi> ſo <hi>intollerable</hi> as that of ſin, and no <hi>Service</hi> ſo <hi>baſe</hi> in the <hi>uſe,</hi>
+               <note place="margin">Rom. 6.21.</note> and ſo <hi>deſtructive</hi> in the <hi>iſſue</hi> for <hi>the end of theſe things is death.</hi>
+            </p>
+            <p>But wherever ſin is now put out of <hi>dominion,</hi> there it ſhall ſhortly be put out of <hi>being.</hi> Chriſt's <hi>firſt</hi> coming was to <hi>free</hi> you from ſins <hi>power,</hi> his next coming ſhall be to <hi>free</hi> you from ſins <hi>preſence.</hi> His great deſign is to perfect Sanctification in you, that you may be <hi>without ſpot, or wrinkle, or any ſuch thing.</hi>
+               <note place="margin">Eph. 5.27.</note> And therefore it will not be long before you ſhall be per<g ref="char:EOLhyphen"/>fectly redeemed from all ſin for ever.</p>
+            <p n="3">
+               <pb n="24" facs="tcp:48900:15"/>
+3. Chriſt a <hi>Ranſom</hi> affords great comfort againſt the <hi>temp<g ref="char:EOLhyphen"/>tation</hi> of Satan. There are two things in the Children of God which are the matter of his envy; their <hi>Graces</hi> and their <hi>Comforts.</hi> And his deſign is levelled againſt the one and the other, to <hi>extinguiſh</hi> both our <hi>Graces</hi> and our <hi>Comforts.</hi> But becauſe he knows he can never ſucceed in the former, therefore he ſets himſelf with the greater <hi>ſubtilty</hi> and <hi>malice</hi> againſt the latter: that if he cannot make us walk <hi>ſinfully,</hi> yet he may cauſe us to walk <hi>dejectedly.</hi> And this greatly ſerves his de<g ref="char:EOLhyphen"/>ſign; for it <hi>diſhonours</hi> God, it <hi>grieves</hi> the Comforter. It <hi>re<g ref="char:EOLhyphen"/>proaches</hi> Religion, as if it were the <hi>troubler</hi> of all peace and comfort; it ſtops our own progreſs in <hi>grace,</hi> and <hi>frights</hi> and <hi>ſcares</hi> others from coming into the ways of God, which are attended with ſuch conſequences.</p>
+            <p>And therefore he uſes all Arts and Devices to obſtruct the Chriſtian's comfort. Sometimes he ſills the Soul with <hi>Doubts</hi> and <hi>Deſpondencies</hi> about its ſpiritual ſtate.</p>
+            <p>Sometimes he tempts it to downright ſinning againſt God. And when upon any fall into ſin, the Spirit of God comes with new <hi>Convictions,</hi> and opens the ſluce of <hi>godly ſorrow,</hi> then doth <hi>Satan</hi> ſet in, and <hi>aggravates</hi> the guilt, till the Soul concludes it <hi>unpardonable;</hi> and thus he raiſes a <hi>flood,</hi> that the <hi>waters</hi> do even <hi>ſink</hi> the Soul. And this was <hi>David</hi>'s caſe, <hi>Pſal.</hi> 69.1, 2. <hi>I am come into deep waters, where the floods overflow me.</hi>
+            </p>
+            <p>Some times he lays his <hi>Brats</hi> at the Believer's <hi>door;</hi> charg<g ref="char:EOLhyphen"/>ing thoſe ſins to his account, which are properly his own. This is very common, eſpecially in the caſe of <hi>thought</hi>-ſins; <hi>unclean</hi> thoughts, <hi>murderous</hi> thoughts, <hi>blaſphemous thoughts,</hi> &amp;c.</p>
+            <p>
+               <hi>Satan</hi> doth <hi>inject</hi> them into the <hi>mind,</hi> and then the Be<g ref="char:EOLhyphen"/>liever, not diſcerning the <hi>cunning</hi> of <hi>Satan</hi> on the one hand, and knowing the <hi>filthineſs</hi> of his own heart on the other, takes them to be his own, and charges himſelf with the guilt of them, as if he were the <hi>filthieſt</hi> ſinner, and vileſt <hi>blaſphemer</hi> in the World. And this muſt needs <hi>extinguiſh</hi> com<g ref="char:EOLhyphen"/>fort.</p>
+            <p>Some times he charges our Duties with <hi>ſin,</hi> and then ar<g ref="char:EOLhyphen"/>gues from the <hi>ſinfulneſs,</hi> to the <hi>non-acceptance</hi> of them. Is not God a holy God? and can Duties that are done with ſuch a <hi>dead</hi> frame, ſuch a <hi>wandering</hi> mind, ſuch <hi>diſtracted</hi>
+               <pb n="25" facs="tcp:48900:15"/>thoughts, and ſuch <hi>carnal</hi> affections, ever ſind acceptance with ſuch a God? Thus by <hi>diſcouraging</hi> the Chriſtian in his <hi>work,</hi> he <hi>cuts off</hi> his <hi>comfort,</hi> which uſually comes in this way.</p>
+            <p>Some times he <hi>puzzles</hi> him, about his Election, and ſo ſets him to the <hi>wrong</hi> end of his <hi>work,</hi> that he may have no comfort in <hi>working;</hi> whereas we are not to <hi>intangle</hi> our ſelves with the intricacies of <hi>Election,</hi> but to look to our <hi>Calling.</hi> This being <hi>cleared, clears</hi> the other. Tho God's <hi>chooſing</hi> be the firſt <hi>act,</hi> yet our <hi>believing</hi> is the firſt <hi>Evidence.</hi> The <hi>Husbandman</hi> knows it is <hi>Spring</hi> by the <hi>putting forth</hi> of the <hi>Earth,</hi> tho he be altogether <hi>ignorant</hi> in the <hi>poſition</hi> of the <hi>Hea<g ref="char:EOLhyphen"/>vens.</hi>
+            </p>
+            <p>Some times he <hi>poſes</hi> him about <hi>the time</hi> of his <hi>Converſion,</hi> and ſo robs him of the comfort of the <hi>thing,</hi> by puzzling him about the time; as if the work could not be wrought, unleſs I know the time of working it? Will a man queſtion the <hi>water</hi> in the <hi>ſtream,</hi> becauſe he knows not the <hi>head</hi> of the <hi>River?</hi> Shall I deny that the Sun <hi>ſhines,</hi> becauſe I do not know what hour it <hi>riſes?</hi> the <hi>truth</hi> of <hi>Grace</hi> is beſt known by the <hi>fruits</hi> of it; the <hi>fruit</hi> ſhews that the Tree <hi>lives,</hi> tho we know not when it <hi>took root.</hi>
+            </p>
+            <p>Some times he makes a man <hi>queſtion the truth</hi> of all his for<g ref="char:EOLhyphen"/>mer <hi>evidences,</hi> tho they have been <hi>many</hi> and <hi>great.</hi> He ſo far unravels the work within, as to perſwade the Soul all was but <hi>deluſion</hi> which he took for a well-grounded hope. Thou a Believer? what haſt to ſhew? thy deeds are all forged, thy <hi>evidences</hi> were never <hi>ſealed</hi> in the Spirit's <hi>Office,</hi> but with the counterfeit Seal of a ſelf-deluded heart. That which thou haſt taken for <hi>aſſurance</hi> of the <hi>goodneſs</hi> of thy ſtate, is nothing but groundleſs <hi>preſumption.</hi> And thus by bringing a man to let go his <hi>evidences,</hi> he <hi>cuts off</hi> all his <hi>comfort</hi> at once. Theſe are ſome of the many ways which Satan hath to rob a Chriſtian of his comforts.</p>
+            <p>But they that are the <hi>ranſomed</hi> of the Lord may ſetch <hi>comfort</hi> and <hi>ſupport</hi> from this truth under all the temptations of <hi>Satan:</hi> for <hi>neither principalities, nor powers ſhall be able to ſe<g ref="char:EOLhyphen"/>parate us from the love of God which is in Chriſt Jeſus our Lord.</hi>
+            </p>
+            <p>Tho <hi>Satan</hi> be a <hi>potent</hi> enemy, yet he is a <hi>conquered</hi> enemy; his Temptations may <hi>vex</hi> and <hi>trouble</hi> Believers, and poſſibly may in this or that particular caſe <hi>draw</hi> them to <hi>ſin,</hi> and <hi>de<g ref="char:EOLhyphen"/>file</hi>
+               <pb n="26" facs="tcp:48900:16"/>them, but they ſhall never prevail ſo far as finally to <hi>o<g ref="char:EOLhyphen"/>vercome</hi> them. If he ſhould finally conquer any one Saint, he would conquer Chriſt; for every Saint is a Member of Chriſt:
+<note place="margin">Matth. 16.18.</note> and he hath ſaid it, That <hi>the Gates of Hell ſhall ne<g ref="char:EOLhyphen"/>ver prevail againſt them.</hi> He who hath <hi>delivered them from go<g ref="char:EOLhyphen"/>ing down to the pit,</hi> will e're long <hi>deliver</hi> them from all Satan's ſnares.
+<note place="margin">Rom. 16.20.</note> It is his promiſe to <hi>tread Satan under your feet ſhortly.</hi> Chriſt don't think it enough to have him under his feet, unleſs he hath him under yours too.
+<note place="margin">John 16.33.</note> In Chriſt we have <hi>peace</hi> now, but ſhortly we ſhall have <hi>Victory</hi> and a <hi>Crown.</hi> And is not this comfort?</p>
+            <p n="4">4. Here is <hi>comfort</hi> againſt that which is ſo much the mat<g ref="char:EOLhyphen"/>ter of our <hi>fear,</hi> and that is <hi>Death.</hi> Why ſhould you be afraid to die? Would not every good man be willing to <hi>injoy</hi> the utmoſt of what Chriſt hath <hi>purchaſed?</hi> Why then he muſt be willing to die, for the beſt lies beyond the Grave. When God calls you to die, it is only a call to come and <hi>inherit</hi> the full of what Chriſt purchaſed for you when he gave himſelf a <hi>ranſom.</hi>
+            </p>
+            <p>O what <hi>comfort</hi> is this againſt the <hi>fear</hi> of Death! it may <hi>diſſolve</hi> us, but it cannot <hi>hurt</hi> us, nor <hi>hold</hi> us. <hi>Deliver him from the pit, I have found a ranſom.</hi>
+            </p>
+            <p>Laſtly. It is comfort, in that this <hi>ranſoming</hi> work will never be <hi>compleated,</hi> till every Believer be <hi>brought</hi> to <hi>Heaven.</hi> He never reckons he hath a full <hi>return</hi> of the <hi>purchaſe made</hi> by his Blood, till all his Members are glorified. Chriſt <hi>took</hi> up our <hi>fleſh, redeemed</hi> us from <hi>Hell</hi> in our <hi>fleſh, purchaſed Heaven</hi> for us in our <hi>fleſh; aſcended</hi> thither in our <hi>fleſh,</hi> and is <hi>glo<g ref="char:EOLhyphen"/>rified</hi> there in our <hi>fleſh;</hi> and all this as our <hi>Head:</hi> and there<g ref="char:EOLhyphen"/>fore every <hi>Member</hi> of his ſhall in his <hi>own fleſh</hi> be e're long <hi>glo<g ref="char:EOLhyphen"/>rified</hi> with him. It is his will it ſhould be ſo; <hi>John</hi> 17.24. <hi>Father, I will that they whom thou haſt given me, be with me where I am, that they may behold</hi> (i. e. <hi>partake of</hi>) <hi>my glory.</hi>
+            </p>
+            <p>Therefore every true Believer may ſay with as much con<g ref="char:EOLhyphen"/>fidence as <hi>Job</hi> did,
+<note place="margin">Job 19 26.</note> 
+               <hi>Tho worms deſtroy this body, yet in my fleſh ſhall Pſee God.</hi> And this is the next great work which our Lord Chriſt hath to do here in this World: for tho he is <hi>gone,</hi> yet he is to <hi>come again;</hi> there is a great deal of <hi>buſineſs</hi> yet lies upon his hand <hi>unfiniſhed.</hi>
+            </p>
+            <p>He ſaid of the work of his <hi>Satisfaction,
+<note place="margin">Joh 19.30.</note> It is finiſhed.</hi> But he never ſaid ſo of the work of <hi>Salvation;</hi> that will not
+<pb n="27" facs="tcp:48900:16"/>be <hi>finiſhed</hi> ſo long as one Believer is out of Heaven.</p>
+            <p>And therefore this is the buſineſs of his next coming. He came before to <hi>finiſh tranſgreſſion;</hi>
+               <note place="margin">Dan. 9.24.</note> but when he comes again it is to <hi>finiſh Salvation:</hi> So ſays the Apoſtle, <hi>Hebr.</hi> 9.28. <hi>Chriſt was once offered to bear the ſins of many; and unto them that look for him ſhall he appear the ſecond time, without ſin, unto Salvation.
+<note place="margin">1 Theſſ. 4.18.</note> Wherefore comfort one another with theſe words.</hi> And thus I have done with this Subject.</p>
+            <p>But there is another Subject which I would ſpeak a little to. Tho it is not my cuſtom to ſpeak of the <hi>dead,</hi> yet it is pity ſo much <hi>learning</hi> and <hi>worth,</hi> ſo much <hi>humility</hi> and <hi>mode<g ref="char:EOLhyphen"/>ſty,</hi> ſo much <hi>vertue</hi> and <hi>grace,</hi> ſo much <hi>ſervice</hi> and <hi>uſefulneſs,</hi> ſuch <hi>perſecutions</hi> and <hi>ſufferings</hi> for Chriſt ſhould be concealed, But I ſhall paſs all this by, having no Authority to take the Commiſſion out of the hand of his <hi>good works,</hi>
+               <note place="margin">Prov. 31.31.</note> they are to <hi>praiſe</hi> him in <hi>the gates,</hi> and not I.</p>
+            <p>And therefore, whereas the manner is to ſhew the <hi>bright ſide</hi> of the deceaſed, I ſhall ſhew his <hi>dark ſide; viz.</hi> the trou<g ref="char:EOLhyphen"/>bles of his mind in his laſt ſickneſs; and which were (as one of his <hi>Phyſicians</hi> informs me) much occaſioned by it. Nor ſhould I ſpeak of this, but that I underſtand there are ſome who have made it a matter of <hi>ſcoff</hi> and <hi>reproach:</hi> which ar<g ref="char:EOLhyphen"/>gues great <hi>ignorance</hi> of the perſon, and great <hi>prophaneneſs</hi> of Spirit.</p>
+            <p>That he was for ſome days under great <hi>darkneſs</hi> about his ſtate, and great <hi>troubles</hi> of mind by reaſon of the <hi>hidings</hi> of God, is true. But what of this? doth it make the good<g ref="char:EOLhyphen"/>neſs of his condition queſtionable? is it any new and un<g ref="char:EOLhyphen"/>heard of thing? hath it not been ſo with the beſt of the Saints of God? Read but the 77th <hi>Pſalm,</hi> and conſider <hi>A<g ref="char:EOLhyphen"/>ſaph</hi>'s caſe: <hi>I remembred God and was troubled,
+<note place="margin">V. 3. A 4. V. 7. V. 8. V. 9.</note> and my ſpirit was overwhelmed. Thou holdeſt mine eyes waking; I am ſo troubled that I cannot ſpeak. Will the Lord caſt off for ever? will he be favourable no more? Is his mercy clean gone for ever? doth his promiſe fail for evermore? Hath God forgotten to be gra<g ref="char:EOLhyphen"/>cious? Hath he in anger ſhut up his tender Mercies?</hi> What <hi>de<g ref="char:EOLhyphen"/>ſponding</hi> Language is this, which ſpeaks great <hi>trouble</hi> of mind, and great <hi>darkneſs</hi> of ſpirit? and yet <hi>Aſaph</hi> was an eminent Saint of God.</p>
+            <p>
+               <pb n="28" facs="tcp:48900:17"/>
+And ſo was <hi>Heman;</hi> and yet what dreadful troubles and terrours was he under? read the 88th <hi>Pſalm</hi> throughout, and you will ſee what a condition he was in, what <hi>doubts</hi> and <hi>fears,</hi> what <hi>clouds</hi> and <hi>darkneſs,</hi> what <hi>diſcouragements</hi> and <hi>deſpondencies</hi> he was under.
+<note place="margin">V. 14 V. 15.</note> 
+               <hi>Lord, why caſteſt thou off my Soul? why hideſt thou thy face from me? I am afflicted, and ready to die from my youth up: while I ſuffer thy terrours I am diſtracted. Thy fierce wrath goeth over me,
+<note place="margin">V. 16.</note> thy terrours have cut me off.</hi>
+            </p>
+            <p>What amazing terrours did he lye under? And it ſeems to have been thus with him not for a few days, but all his days; <hi>I am afflicted and ready to die from my youth up.</hi> And hence ſome have thought that his Sun <hi>aroſe</hi> in a <hi>Cloud,</hi> and <hi>ſet</hi> in a <hi>Cloud;</hi> and yet a man of great grace.</p>
+            <p>And this was <hi>David</hi>'s caſe; and that not once, but often; and ſome times for a long while together. <hi>Pſal.</hi> 13.1. <hi>How long wilt thou forget me, O Lord? how long wilt thou hide thy face from me?</hi> And <hi>Pſalm</hi> 89.46. <hi>How long, Lord, wilt thou hide thy ſelf? for ever? ſhall thy wrath burn like fire?</hi> And yet who a man of greater holineſs then <hi>David?
+<note place="margin">Act 13.22.</note> A man after God's own heart.</hi>
+            </p>
+            <p>And was it not thus with <hi>Job?</hi> See Chap. 13.24, 25, 26. <hi>Wherefore hideſt thou thy face, and holdeſt me for thine enemy? wilt thou break a leaf driven to and fro? wilt thou purſue the dry ſtubble? for thou writeſt bitter things againſt me.</hi> And Chap. 19.6. <hi>Know now that God hath overthrown me.</hi> Verſe 8. <hi>He hath ſet darkneſs in my paths.</hi> Verſe 11. <hi>He hath kindled his wrath againſt me, and counteth me one of his enemies.</hi> And yet <hi>Job</hi> was the <hi>None-ſuch</hi> of his day for holineſs; God himſelf ſays ſo, <hi>Job</hi> 2.3. <hi>There is none like him in the Earth, a perfect and an upright man, one that feareth God, and eſcheweth e<g ref="char:EOLhyphen"/>vil.</hi>
+            </p>
+            <p>Therefore this is no new thing. How often have we known ſuch things in our own experience, or at leaſt known or heard of them who have. And that not among private Chriſtians only, but among the Miniſters of Chriſt, and ſuch as have been (like him who was lately yours) perſons of great grace, and great uſefulneſs; ſuch as Mr. <hi>Peacock,</hi> Mr. <hi>Perkins,</hi> and others which I could name, Men famous in the Church of God in their days, and yet full of darkneſs and diſtreſs of Conſcience upon a ſick and dying Bed.</p>
+            <p>
+               <pb n="29" facs="tcp:48900:17"/>
+And as this is no new thing for the Children of God to be thus exerciſed, ſo it is no new thing when the hand of God is upon them, to have the mouths of profane ones o<g ref="char:EOLhyphen"/>pen againſt them. It was ſo with <hi>David, Pſal.</hi> 69.26. <hi>They perſecute him whom thou haſt ſmitten, and talk to the grief of thoſe whom thou haſt wounded.</hi> And it was <hi>Job</hi>'s caſe too, tho in his Proſperity he was honoured of all, even of them that were old, (<hi>Chap.</hi> 29.8.) yet in his Affliction he was the ſcoff even of them that were young. Chap. 30.1, 9, 10. <hi>They that are younger then I have me in deriſion. And now I an their Song, yea I am their by-word. They abhor me—and ſpare not to ſpit in my face. Becauſe he hath looſed my cord, and afflicted me, they have alſo let looſe the bridle before me.</hi>
+            </p>
+            <p>And this is a practice not only <hi>impious</hi> and <hi>ungodly,</hi> but <hi>inhumane</hi> and <hi>unnatural.</hi> Not only <hi>grace,</hi> but <hi>good nature</hi> and <hi>common ingenuity</hi> teaches us to pity them that are in Miſery. To <hi>ſorrow</hi> at anothers <hi>joys,</hi> or <hi>rejoyce</hi> in anothers <hi>ſorrows,</hi> are affections more becoming Devils then Men, e<g ref="char:EOLhyphen"/>ſpecially then Chriſtians. And therefore I ſhall paſs this by, as not worth the noticing. That which I judge more worthy to be conſidered, as being more for inſtruction and advantage, is the reaſon of this diſpenſation of God.</p>
+            <p>
+               <hi>Queſt.</hi> Why doth God deal thus with his People? why doth he at any time <hi>hide</hi> himſelf, and leave them under ſuch <hi>darkneſs</hi> and <hi>diſcomfort?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> That is Anſwer ſufficient which <hi>Elihu</hi> gives to <hi>Job</hi> in the 12th and 13th Verſes of this 33d Chapter, <hi>God is greater then Man, he giveth not account of any of his matters.
+<note place="margin">Rom. 9.20.</note> Shall the thing formed ſay to him that formed it, why haſt thou made me thus? Let the potſheard ſtrive with the potſheards of the Earth.</hi>
+            </p>
+            <p>But yet the Scripture holds forth ſeveral Reaſons of theſe Diſpenſations of God. And therefore I ſhall not ſpeak of that <hi>dusky</hi> honour and <hi>melancholy</hi> diſpoſition which many times, by diſtempering the Body, diſturbs the Soul too, which follows bodily temper, filling it with doubts and fears, and inclining it to ſuſpect the worſt in every caſe.</p>
+            <p>
+               <pb n="30" facs="tcp:48900:18"/>
+But I ſhall rather ſpeak of the ſpiritual Cauſes of ſuch darkneſs and trouble of mind.</p>
+            <p n="1">1. God may act herein to ſhew his <hi>Prerogative</hi> and <hi>abſo<g ref="char:EOLhyphen"/>lute Soveraignty</hi> over Man. None can deny him a liberty to glorifie himſelf in his own way, and by what methods he pleaſeth.</p>
+            <p>God never wants a cauſe where ſin is, but yet he doth not always make ſin to be the cauſe; as he ſays of the <hi>young man</hi> that was <hi>born blind.
+<note place="margin">John 92.</note> Maſter,</hi> ſay the Diſciples, <hi>who did ſin, this Man, or his Parents, that he is born blind? Nei<g ref="char:EOLhyphen"/>ther hath this man ſinned,</hi>
+               <note place="margin">V. 3.</note> ſaith Chriſt, <hi>nor his Parents, but that the works of God ſhould be made manifeſt in him.</hi> They were not <hi>without ſin,</hi> but yet this blindneſs was not <hi>for ſin,</hi> but an act of God's <hi>prerogative.</hi> So in God's ſecret dealings with <hi>Job,</hi> he doth not put it upon his <hi>ſin,</hi> but upon his own <hi>So<g ref="char:EOLhyphen"/>veraignty.</hi> So much is implied in that of God to Satan, <hi>Thou moveſt me againſt him without a cauſe,</hi> Job 2.3.</p>
+            <p n="2">2. God in his holy wiſdom thus exerciſeth his Children, to let us ſee that we hold not our <hi>graces</hi> and our <hi>comforts</hi> by the ſame <hi>tenure:</hi> our <hi>graces</hi> are held by the <hi>tenure</hi> of <hi>abſo<g ref="char:EOLhyphen"/>lute</hi> promiſes, but our <hi>comforts</hi> are held by the tenure of <hi>conditional</hi> promiſes; and therefore <hi>grace</hi> may <hi>live</hi> and <hi>thrive,</hi> tho our <hi>comfort withers</hi> and <hi>dies.</hi> God hath no where promiſed that we ſhall always injoy <hi>the light of his Counte<g ref="char:EOLhyphen"/>nance,</hi>
+               <note place="margin">Jer. 32.40.</note> but he hath promiſed to <hi>put his fear into our hearts, that we ſhall not depart from him.</hi>
+               <note place="margin">1 Job. 3.9.</note> And therefore the <hi>Seed of God remains,</hi> when the <hi>ſight</hi> of God is loſt.</p>
+            <p n="3">3. It is to teach us to diſtinguiſh between the <hi>being</hi> and the <hi>well-being</hi> of a Chriſtian, and what is neceſſary to one and the other. What is neceſſary to the <hi>being</hi> of a Chri<g ref="char:EOLhyphen"/>ſtian he ſhall never want, but what is neceſſary to his <hi>well-being</hi> only he may want: Now <hi>comfort</hi> is not neceſſary to the <hi>being</hi> of a Chriſtian; <hi>grace</hi> doth not depend upon <hi>com<g ref="char:EOLhyphen"/>fort:</hi> A Man may be as eminent a Saint without the light of God's face as with it. <hi>Comfort</hi> is an arbitrary Mercy: one who hath leſs <hi>grace</hi> may have more <hi>comfort</hi> then another that hath much more: nay, the ſame Believer may have moſt <hi>comfort</hi> when he hath leaſt <hi>grace.</hi> Many feel more <hi>comfort</hi> at their firſt converſion then ever after.</p>
+            <p n="4">4. God doth this for <hi>cure.</hi> The Soul hath its <hi>Diſeaſes</hi> and <hi>Sickneſſes</hi> as well as the Body; and where he finds any
+<pb n="31" facs="tcp:48900:18"/>
+               <hi>ſpiritual malady</hi> to prevail, this is his <hi>healing Medicine.</hi>
+            </p>
+            <p>Some times <hi>dulneſs</hi> and <hi>deadneſs</hi> of heart grows upon us, and <hi>grace</hi> is leſs vigorous and active; now as Phyſicians uſe to caſt a Man into a Fevor to cure a Lethargy, ſo God gives theſe ſtrong Medicines to quicken our <hi>dull</hi> and <hi>ſleepy</hi> Spirits.</p>
+            <p>Some times the <hi>filial fear</hi> of God abates in us, and we grow <hi>careleſs</hi> and <hi>preſuming.</hi> And then tho God be a Father, yet he will ſhew his anger, and that is terrible, eſpecially when his love hath been much felt.</p>
+            <p>Some times the vigorous <hi>mortification of ſin</hi> is neglected, and we grow more ready to connive at it: and then it is with us as with <hi>Iſrael;</hi> the <hi>Canaamtes</hi> get head, and God leaves us in their hands to become <hi>Thorns</hi> and <hi>Goads</hi> to us.</p>
+            <p>Some times <hi>Ordinances</hi> are not <hi>attended upon</hi> as they ought to be; we grow idle and remiſs in Duties: and then no wonder tho our comforts are cut off, when the means of our Communion with God are neglected. Dark Diſpen<g ref="char:EOLhyphen"/>ſations are deſigned for a cure of theſe, and ſuch like Evils; <hi>He for our profit, that we may be partakers of his holineſs.</hi>
+               <note place="margin">Hebr. 12.10.</note>
+            </p>
+            <p n="5">5. God doth it to take us off from living by <hi>ſenſe,</hi> and to diſcipline us more to the life of <hi>faith,</hi> which is a life peculiar to Believers, and diſtinct from all other ways of living: for all elſe live by ſenſe, all <hi>below</hi> them, and all <hi>above</hi> them. All in a ſtate of <hi>nature</hi> live by <hi>ſenſe,</hi> and all in a ſtate of glo<g ref="char:EOLhyphen"/>ry live by <hi>ſenſe.</hi> Theſe in a ſtate of <hi>ſenſe depraved,</hi> thoſe in a ſtate of <hi>ſenſe glorified.</hi> Theſe live by <hi>ſenſe</hi> upon <hi>carnal com<g ref="char:EOLhyphen"/>ſorts,</hi> they live by <hi>ſenſe</hi> upon <hi>eternal enjoyments.</hi> The for<g ref="char:EOLhyphen"/>mer live by <hi>ſenſe</hi> for want of <hi>faith,</hi> the latter I've by <hi>ſenſe,</hi> having gotten above <hi>ſaith:</hi> But the Believer lives partly by <hi>ſenſe,</hi> and partly by <hi>faith.</hi>
+            </p>
+            <p>Now tho God by the <hi>light of his Countenance</hi> doth ſome times miniſter to <hi>ſenſe,</hi>
+               <note place="margin">Hab. 2.4.</note> yet he would have his People <hi>live by faith,</hi> and not by <hi>ſenſe;</hi> it being the moſt <hi>noble</hi> life, which far <hi>excels</hi> that of <hi>ſenſe</hi> in the preſent ſtate. For,</p>
+            <p n="1">1. <hi>Faith</hi> hath a better Object to live upon then <hi>ſenſe</hi> hath; <hi>Senſe</hi> lives upon preſent Diſcoveries, but <hi>Faith</hi> lives upon <hi>Promiſes</hi> and <hi>Propriety:</hi> and therefore Faith is never at a loſs, when <hi>Senſe</hi> is. <hi>Faith</hi> hath always ſomewhat to live up<g ref="char:EOLhyphen"/>on, when <hi>ſenſe</hi> hath not. How often is the Believer's <hi>Sun</hi>
+               <pb n="32" facs="tcp:48900:19"/>ſhut in, and his <hi>beams</hi> cut off by interpoſing Clouds: no diſcoveries, no incomes, no comforting influences: and then you hear of ſad <hi>complaints,</hi> and doleful <hi>concluſions,</hi> and all from miſtaken <hi>ſenſe:</hi> not becauſe God is <hi>loſt,</hi> but becauſe he is not <hi>felt.</hi>
+            </p>
+            <p n="2">2. <hi>Faith ſecures</hi> things to us which <hi>ſenſe</hi> cannot. Nothing that ſenſe lives upon is <hi>ſure.</hi> No preſent comforts are <hi>ſure.</hi> The <hi>Light of God's Face</hi> is not ſure; the <hi>emations of his love</hi> are not <hi>ſure;</hi> the <hi>comforts of the Spirit</hi> are not <hi>ſure:</hi> theſe things <hi>come</hi> and <hi>go,</hi> they are <hi>loſt</hi> and <hi>found.</hi> A Chriſtian often <hi>hath</hi> them, but he knows not how long he ſhall <hi>injoy</hi> them, nor how ſoon he may be <hi>deprived</hi> of them, tho he be careful and diligent to <hi>preſerve</hi> them. <hi>I was not in ſafety, neither had I reſt, neither was I quiet, yet trouble came,</hi> Job 3.26.</p>
+            <p>But that which Faith lives upon is <hi>ſure.</hi> The <hi>Covenant</hi> is <hi>ſure,</hi> the <hi>Promiſe</hi> is <hi>ſure,</hi> and therefore <hi>Intereſt</hi> in God is <hi>ſure.</hi>
+            </p>
+            <p n="3">3. <hi>Faith</hi> glorifies God more then <hi>ſenſe</hi> can do. <hi>Senſe</hi> can't take God's word without a pawn,
+<note place="margin">Hab. 3.17.</note> 
+               <hi>Faith</hi> can. <hi>Tho the Fig<g ref="char:EOLhyphen"/>tree ſhall not bloſſom,</hi> &amp;c. <hi>Senſe</hi> can't wait God's leiſure, <hi>Faith</hi> can:
+<note place="margin">Iſa. 8.17.</note> 
+               <hi>I will wait upon the Lord that hides his face from the Houſe of</hi> Jacob, <hi>and I will look for him. Senſe</hi> can't bear up under Diſcouragements,
+<note place="margin">Job 13.15.</note> 
+               <hi>Faith</hi> can: <hi>Tho he ſlay me, yet will I truſt in him. Senſe</hi> hath but one Light to work by, <hi>viz. the Light of God's Countenance,</hi> and when that light is hid, the working hand of ſenſe is ſealed up. But <hi>Faith</hi> hath another Light to work by, and that is, <hi>the Light of God's Command:</hi> and this is a <hi>ſurer</hi> and <hi>better</hi> Light to work by then the former: ſo that <hi>Faith</hi> hath Light when <hi>Senſe</hi> hath none. For when God puts out one Light, <hi>Senſe</hi> puts out the other; and ſo makes our caſe far worſe when God in<g ref="char:EOLhyphen"/>tended it, by putting <hi>Darkneſs</hi> in our <hi>Paths,</hi> when God can<g ref="char:EOLhyphen"/>ſes <hi>Darkneſs</hi> upon our <hi>Spirits.</hi>
+            </p>
+            <p>Therefore one deſign of God in theſe hidings is to draw forth <hi>Faith</hi> to more vigorous Acts, and to teach the Believer to live upon his <hi>Intereſt</hi> in God without <hi>Evidence,</hi>
+               <note place="margin">Iſa. 50.10.</note> and to ſay <hi>my God,</hi> when he cannot ſee God; as Chriſt did <hi>Matth.</hi> 27.26. Theſe Earth-quakes in the Soul, tho they ſhake <hi>Senſe,</hi> yet <hi>Faith</hi> is thereby made to ſtand the faſter upon its true Baſis.</p>
+            <p>
+               <pb n="33" facs="tcp:48900:19"/>
+The more we come to live by Faith, the more ſecure and quiet will our lives be. What ſad Complaints, and deſponding Out-cries are often heard out of the Mouths of good men! enough to make ſuch as judge <hi>according to out<g ref="char:EOLhyphen"/>ward appearance</hi> to take them for <hi>Reprobates</hi> and <hi>Caſtaways:</hi> whereas theſe (for the moſt part) are nothing but the <hi>pinings</hi> of ſpiritual <hi>ſenſe cut ſhort</hi> of it, wonted <hi>Meals,</hi> and ſo <hi>crying</hi> for lack of <hi>Bread.</hi> This was the reaſon of <hi>Job</hi>'s com<g ref="char:EOLhyphen"/>plaining, Chap. 29. <hi>O that I were as in Months paſt, as in the days when God preſerved me—when by his light I walked through darkneſs.</hi> A Soul that hath once enjoyed the com<g ref="char:EOLhyphen"/>fort and ſweetneſs of this light, cannot bear it to have his Spirit benighted by the hidings of God from him. But to be brief;</p>
+            <p n="6">6. God doth ſome times deal thus with his own Chil<g ref="char:EOLhyphen"/>dren <hi>in Judgment</hi> to the Children of this World: that they that will not be convinced of the goodneſs and excellency of the <hi>ways</hi> of God, by the light of the <hi>word</hi> of God, may never be drawn by the comforts of the <hi>Children</hi> of God. As there are Myſteries in the <hi>Word</hi> of God, ſo there are alſo the <hi>Works</hi> of God:
+<note place="margin">2 Cor. 4 3. Pſal. 83.3.</note> As his Goſpel is to ſome <hi>a hidden Go<g ref="char:EOLhyphen"/>ſpel,</hi> ſo are his People a <hi>hidden People.</hi> Their <hi>Graces</hi> are <hi>hid<g ref="char:EOLhyphen"/>den</hi> under many <hi>Infirmities;</hi> their <hi>Beauty</hi> is <hi>hidden</hi> under mean outward <hi>Appearances;</hi> their <hi>Comforts</hi> are <hi>hidden</hi> under much <hi>ſpiritual darkneſs,</hi> and this is in Judgment to the World. As Chriſt's coming in ſuch a poor and low condition was; <hi>John</hi> 9.39. <hi>For Judgment I am come into this World.</hi>
+            </p>
+            <p n="7">7. Theſe dealings of God are ſuitable to their preſent ſtate, which is <hi>a ſtate of conflict.</hi> This <hi>Life</hi> is <hi>a ſeaſon</hi> of <hi>manifold Temptations,</hi> 1 <hi>Pet.</hi> 1.6. and therefore we ſhould be ſo far from wondering that any are <hi>tempted</hi> ſo much, that it ſhould rather be matter of wonder that all are not <hi>tempted</hi> more, only the wiſe God knows what kind of <hi>temp<g ref="char:EOLhyphen"/>tation</hi> is needful, and how much, and how long, and <hi>debates in meaſure.</hi>
+            </p>
+            <p>Who wonders to ſee Storms and Tempeſts, Froſts and Snows, and lowring Heavens in Winter? Is it not the pro<g ref="char:EOLhyphen"/>per Seaſon? Tho the day be more pleaſant than the night, yet the night is as uſeful as the day.</p>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:48900:20"/>
+            <head>
+               <hi>Books ſold by</hi> John Lawrence <hi>at the</hi> Angel <hi>in the</hi> Poultry.</head>
+            <p>
+               <hi>GEll</hi>'s Remains, being ſundry pious and learned Notes on the <hi>New Teſtament,</hi> opening and explaining it. In <hi>Folio.</hi>
+            </p>
+            <p>The Jeſuites Catechiſm according to St. <hi>Ignatius Loyola,</hi> wherein the Impiety of their Principles, Perniciouſneſs of their Doctrines, and Iniquity of their Practices are declared, 4<hi rend="sup">o</hi>.</p>
+            <p>Several excellent Diſcourſes <hi>viz.</hi> 1. Of Purity and Charity 2. Of Repentance. 3. Of ſeeking firſt the Kingdom of God. By <hi>Hezekiah Burton</hi> D. D. Publiſhed by the moſt Reverend Father in God, <hi>John</hi> Lord Archbiſhop of <hi>Canterbury,</hi> 8<hi rend="sup">o</hi>.</p>
+            <p>Man's whole Duty, and God's wonderful Intreaty of him thereunto, ſet forth from 2 <hi>Cor.</hi> 5.20. By <hi>Daniel Burgeſs</hi> Mi<g ref="char:EOLhyphen"/>niſter of the Goſpel. In 12<hi rend="sup">o</hi>.</p>
+            <p>Advice to Parents and Children. The ſum of a few Ser<g ref="char:EOLhyphen"/>mons contracted and publiſhed at the requeſt of many pious Hearers. By the ſame Author. In 12<hi rend="sup">o</hi>.</p>
+            <p>The Triumph of Grace, or the laſt Words and edifying Death of the Lady <hi>Margaret de la Muſſe,</hi> a noble French La<g ref="char:EOLhyphen"/>dy, who died in <hi>May</hi> 1681. Aged but ſixteen years. In 12<hi rend="sup">o</hi>.</p>
+            <p>The Map of Man's Miſery, or the Poor Man's Pocket Book, being a perpetual Almanack of Spiritual Meditations; or a Compleat Directory for one endleſs Week. 12<hi rend="sup">o</hi>.</p>
+            <p>A Help to true Spelling or Reading: or a very eaſie Me<g ref="char:EOLhyphen"/>thod for the teaching of Children or elder Perſons rightly to ſpell, and exactly to read <hi>Engliſh.</hi> By <hi>William Scoffin</hi> Miniſter of the Goſpel. In 8<hi rend="sup">o</hi>.</p>
+            <p>
+               <hi>Inſtitutio Grammaticae ad Juventutis Captum ſummo ſtudio &amp; artificio concinnata. Inqua certi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Ratio, &amp; genuina Noteo ac<g ref="char:EOLhyphen"/>curati diſquiritur atque enucleatino enodatur. In</hi> 8<hi rend="sup">o</hi>.</p>
+            <p>Lately publiſhed.</p>
+            <p>The Death and Reſt, Reſurrection and Portion of the Saints, in a Diſcourſe on <hi>Dan.</hi> 12.13. on occaſion of the Fu<g ref="char:EOLhyphen"/>neral of the Reverend Dr. <hi>Dan. Rolles.</hi> Together with the work of the Redeemer and work of the Redeemed By <hi>Dan. Burgeſs</hi> Miniſter of the Goſpel, 12<hi rend="sup">o</hi>.</p>
+            <p>
+               <hi>Miſcellanca Sacra.</hi> Containing Scriptural Meditations, Di<g ref="char:EOLhyphen"/>vine Ineathings, Occaſional Reflections, and Sacred Poems. In 12<hi rend="sup">o</hi>.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
